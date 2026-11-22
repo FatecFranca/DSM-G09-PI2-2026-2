@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Orçamentos — Sistema de Gestão</title>
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+  <!-- Cabeçalho (mesmo padrão) -->
+  <header class="cabecalho">
+    <div class="logo">
+      <span class="logo__icone">⚙️</span>
+      <span>Sistema de Gestão</span>
+    </div>
+    
+    <nav class="navegacao">
+      <a href="dashboard.html" class="nav-link">Início</a>
+      <a href="clientes.html" class="nav-link">Clientes</a>
+      <a href="fornecedores.html" class="nav-link">Fornecedores</a>
+      <a href="materiais.html" class="nav-link">Materiais</a>
+      <a href="orcamentos.html" class="nav-link ativo">Orçamentos</a>
+      <a href="projetos.html" class="nav-link">Projetos</a>
+      <a href="usuarios.html" class="nav-link">Usuários</a>
+    </nav>
+    
+    <div class="usuario-area">
+      <span class="usuario-nome" id="nomeUsuario">Usuário</span>
+      <span class="tag-nivel" id="nivelUsuario">consulta</span>
+      <a href="dashboard.html" class="btn btn-secundario" style="margin-left: 0.5rem;">Voltar</a>
+      <button class="btn-sair" id="btnSair">Sair</button>
+    </div>
+  </header>
+
+  <main class="conteudo">
+    <h1 class="titulo-pagina">📋 Gestão de Orçamentos</h1>
+
+    <div class="painel-cartoes">
+      
+      <!-- Card: Cadastro/Edição -->
+      <div class="cartao">
+        <h2 id="tituloForm" style="margin-top: 0; margin-bottom: 1.5rem;">➕ Novo Orçamento</h2>
+        <form id="formOrcamento">
+          <input type="hidden" id="orcamentoId">
+          
+          <div class="linha-form">
+            <div class="grupo">
+              <label>Cliente *</label>
+              <select id="cliente_id" required>
+                <option value="">Selecione um cliente...</option>
+                <!-- preenchido via JS -->
+              </select>
+            </div>
+            <div class="grupo">
+              <label>Tipo *</label>
+              <select id="tipo" required>
+                <option value="">Selecione...</option>
+                <option value="rede_eletrica">Rede Elétrica</option>
+                <option value="cabeamento_estruturado">Cabeamento Estruturado</option>
+                <option value="iot">IoT</option>
+              </select>
+            </div>
+            <div class="grupo">
+              <label>Data *</label>
+              <input type="date" id="data" required>
+            </div>
+            <div class="grupo">
+              <label>Status *</label>
+              <select id="status_id" required>
+                <option value="">Selecione...</option>
+                <!-- preenchido via JS -->
+              </select>
+            </div>
+          </div>
+
+          <div class="linha-form">
+            <div class="grupo completo">
+              <label>Descrição / Observações</label>
+              <textarea id="descricao" rows="3" placeholder="Detalhes do orçamento..."></textarea>
+            </div>
+          </div>
+
+          <!-- Área de Materiais -->
+          <div style="margin: 1.5rem 0; padding-top: 1rem; border-top: 1px solid #eee;">
+            <h3 style="margin-bottom: 1rem;">Materiais do Orçamento</h3>
+            <button type="button" id="btnAdicionarItem" class="btn btn-secundario" style="margin-bottom: 1rem;">➕ Adicionar Material</button>
+            
+            <div id="areaItens" style="display: flex; flex-direction: column; gap: 0.75rem; margin-bottom: 1rem;">
+              <!-- linhas de itens via JS -->
+            </div>
+
+            <div style="text-align: right; font-size: 1.25rem; font-weight: bold; padding: 0.75rem; background: #f9f9f9; border-radius: 6px;">
+              Valor Total: <span id="valorTotal">R$ 0,00</span>
+            </div>
+          </div>
+
+          <div id="mensagem" class="mensagem" style="margin-top: 1rem;"></div>
+          
+          <div class="botoes-form" style="margin-top: 1.5rem;">
+            <button type="submit" class="btn">💾 Salvar</button>
+            <button type="button" id="btnCancelar" class="btn secundario limpar">Cancelar</button>
+          </div>
+        </form>
+      </div>
+
+      <!-- Card: Listagem -->
+      <div class="cartao">
+        <h2 style="margin-top: 0; margin-bottom: 1.5rem;">📋 Lista de Orçamentos <span id="contagem"></span></h2>
+        <div class="tabela-container">
+          <table id="tabelaOrcamentos">
+            <thead>
+              <tr>
+                <th>ID</th>
+                <th>Cliente</th>
+                <th>Tipo</th>
+                <th>Descrição</th>
+                <th>Valor</th>
+                <th>Data</th>
+                <th>Status</th>
+                <th>Ações</th>
+              </tr>
+            </thead>
+            <tbody id="listaOrcamentos"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script src="js/api.js"></script>
+  <script src="js/orcamentos.js"></script>
+</body>
+</html>

@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Clientes — Sistema de Gestão</title>
+  <link rel="stylesheet" href="css/estilo.css">
+  <style>
+    .campo-fisica, .campo-juridica {
+      transition: opacity 0.25s ease;
+    }
+    .oculto {
+      display: none !important;
+    }
+  </style>
+</head>
+<body>
+  <!-- Cabeçalho (mesmo padrão da Dashboard) -->
+  <header class="cabecalho">
+    <div class="logo">
+      <span class="logo__icone">⚙️</span>
+      <span>Sistema de Gestão</span>
+    </div>
+    
+    <nav class="navegacao">
+      <a href="dashboard.html" class="nav-link">Início</a>
+      <a href="clientes.html" class="nav-link ativo">Clientes</a>
+      <a href="fornecedores.html" class="nav-link">Fornecedores</a>
+      <a href="materiais.html" class="nav-link">Materiais</a>
+      <a href="orcamentos.html" class="nav-link">Orçamentos</a>
+      <a href="projetos.html" class="nav-link">Projetos</a>
+      <a href="usuarios.html" class="nav-link">Usuários</a>
+    </nav>
+    
+    <div class="usuario-area">
+      <span class="usuario-nome" id="nomeUsuario">Usuário</span>
+      <span class="tag-nivel" id="nivelUsuario">consulta</span>
+      <a href="dashboard.html" class="btn btn-secundario" style="margin-left: 0.5rem;">Voltar</a>
+      <button class="btn-sair" id="btnSair">Sair</button>
+    </div>
+  </header>
+
+  <!-- Conteúdo Principal (mesmo padrão da Dashboard) -->
+  <main class="conteudo">
+    <h1 class="titulo-pagina">👥 Gestão de Clientes</h1>
+
+    <div class="painel-cartoes">
+      
+      <!-- Card 1: Cadastro -->
+      <div class="cartao">
+        <h2 id="tituloForm" style="margin-top: 0; margin-bottom: 1.5rem;">➕ Novo Cliente</h2>
+        <form id="formCliente">
+          <input type="hidden" id="clienteId">
+          
+          <div class="linha-form">
+            <div class="grupo">
+              <label>Tipo *</label>
+              <select id="cli_tipo" required>
+                <option value="">Selecione...</option>
+                <option value="F">Pessoa Física</option>
+                <option value="J">Pessoa Jurídica</option>
+              </select>
+            </div>
+            <div class="grupo">
+              <label>Nome / Razão Social *</label>
+              <input type="text" id="cli_nome_razao" required>
+            </div>
+            <div class="grupo">
+              <label>Nome Fantasia</label>
+              <input type="text" id="cli_nome_fantasia">
+            </div>
+          </div>
+
+          <div class="linha-form">
+            <div class="grupo campo-fisica" id="grupo_cli_cpf">
+              <label>CPF</label>
+              <input type="text" id="cli_cpf" maxlength="14" oninput="mascararCPF(this)">
+            </div>
+            <div class="grupo campo-fisica" id="grupo_cli_rg">
+              <label>RG</label>
+              <input type="text" id="cli_rg">
+            </div>
+            <div class="grupo campo-juridica oculto" id="grupo_cli_cnpj">
+              <label>CNPJ</label>
+              <input type="text" id="cli_cnpj" maxlength="18" oninput="mascararCNPJ(this)">
+            </div>
+            <div class="grupo campo-juridica oculto" id="grupo_cli_ie">
+              <label>IE</label>
+              <input type="text" id="cli_ie">
+            </div>
+            <div class="grupo campo-juridica oculto" id="grupo_cli_im">
+              <label>IM</label>
+              <input type="text" id="cli_im">
+            </div>
+          </div>
+
+          <div class="linha-form">
+            <div class="grupo">
+              <label>E-mail *</label>
+              <input type="email" id="cli_email" required>
+            </div>
+            <div class="grupo">
+              <label>Celular *</label>
+              <input type="text" id="cli_celular" required oninput="mascararTelefone(this)">
+            </div>
+            <div class="grupo">
+              <label>Telefone</label>
+              <input type="text" id="cli_telefone" oninput="mascararTelefone(this)">
+            </div>
+            <div class="grupo">
+              <label>Contato</label>
+              <input type="text" id="cli_contato">
+            </div>
+          </div>
+
+          <div class="linha-form">
+            <div class="grupo">
+              <label>Endereço *</label>
+              <input type="text" id="cli_endereco" required>
+            </div>
+            <div class="grupo">
+              <label>Número *</label>
+              <input type="text" id="cli_numero" required>
+            </div>
+            <div class="grupo">
+              <label>Complemento</label>
+              <input type="text" id="cli_complemento">
+            </div>
+          </div>
+
+          <div class="linha-form">
+            <div class="grupo">
+              <label>Bairro *</label>
+              <input type="text" id="cli_bairro" required>
+            </div>
+            <div class="grupo">
+              <label>Cidade *</label>
+              <input type="text" id="cli_cidade" required>
+            </div>
+            <div class="grupo">
+              <label>UF *</label>
+              <input type="text" id="cli_estado" maxlength="2" required>
+            </div>
+            <div class="grupo">
+              <label>CEP *</label>
+              <input type="text" id="cli_cep" required oninput="mascararCEP(this)" onblur="buscarCEP(this.value, 'cli_')">
+            </div>
+          </div>
+
+          <div class="linha-form">
+            <div class="grupo">
+              <label>Limite de Crédito</label>
+              <input type="number" step="0.01" id="cli_limite_credito">
+            </div>
+          </div>
+
+          <div class="grupo">
+            <label>Observações</label>
+            <textarea id="cli_observacoes" rows="3"></textarea>
+          </div>
+
+          <div id="mensagem" class="mensagem"></div>
+          
+          <div class="botoes-form">
+            <button type="submit" class="btn">💾 Salvar</button>
+            <button type="button" id="btnCancelar" class="btn secundario limpar">Cancelar</button>
+          </div>
+        </form>
+      </div>
+
+      <!-- Card 2: Listagem -->
+      <div class="cartao">
+        <h2 style="margin-top: 0; margin-bottom: 1.5rem;">📋 Lista de Clientes <span id="contagem"></span></h2>
+        <div class="tabela-container">
+          <table id="tabelaClientes">
+            <thead>
+              <tr>
+                <th>Nome / Razão</th>
+                <th>Tipo</th>
+                <th>E-mail</th>
+                <th>Celular</th>
+                <th>Cidade/UF</th>
+                <th>Ações</th>
+              </tr>
+            </thead>
+            <tbody id="listaClientes"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script src="js/validacoes.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/clientes.js"></script>
+</body>
+</html>

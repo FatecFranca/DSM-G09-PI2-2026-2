@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projetos — Sistema de Gestão</title>
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+  <header class="cabecalho">
+    <div class="logo">
+      <span class="logo__icone">⚙️</span>
+      <span>Sistema de Gestão</span>
+    </div>
+    
+    <nav class="navegacao">
+      <a href="dashboard.html" class="nav-link">Início</a>
+      <a href="clientes.html" class="nav-link">Clientes</a>
+      <a href="fornecedores.html" class="nav-link">Fornecedores</a>
+      <a href="materiais.html" class="nav-link">Materiais</a>
+      <a href="orcamentos.html" class="nav-link">Orçamentos</a>
+      <a href="projetos.html" class="nav-link ativo">Projetos</a>
+      <a href="usuarios.html" class="nav-link">Usuários</a>
+    </nav>
+    
+    <div class="usuario-area">
+      <span class="usuario-nome" id="nomeUsuario">Usuário</span>
+      <span class="tag-nivel" id="nivelUsuario">consulta</span>
+      <a href="dashboard.html" class="btn btn-secundario" style="margin-left: 0.5rem;">Voltar</a>
+      <button class="btn-sair" id="btnSair">Sair</button>
+    </div>
+  </header>
+
+  <main class="conteudo">
+    <h1 class="titulo-pagina">🏗️ Gestão de Projetos</h1>
+
+    <div class="painel-cartoes">
+      
+      <!-- Card: Cadastro/Edição -->
+      <div class="cartao">
+        <h2 id="tituloForm" style="margin-top: 0; margin-bottom: 1.5rem;">➕ Novo Projeto</h2>
+        <form id="formProjeto">
+          <input type="hidden" id="projetoId">
+          
+          <div class="linha-form">
+            <div class="grupo">
+              <label>Nome do Projeto *</label>
+              <input type="text" id="nome" required placeholder="Digite o nome do projeto">
+            </div>
+            <div class="grupo">
+              <label>Cliente *</label>
+              <select id="cliente_id" required>
+                <option value="">Selecione um cliente...</option>
+              </select>
+            </div>
+            <div class="grupo">
+              <label>Tipo *</label>
+              <select id="tipo" required>
+                <option value="">Selecione...</option>
+                <option value="rede_eletrica">Rede Elétrica</option>
+                <option value="cabeamento_estruturado">Cabeamento Estruturado</option>
+                <option value="iot">IoT</option>
+              </select>
+            </div>
+            <div class="grupo">
+              <label>Status *</label>
+              <select id="status_id" required>
+                <option value="">Selecione...</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="linha-form">
+            <div class="grupo">
+              <label>Data de Início *</label>
+              <input type="date" id="data_inicio" required>
+            </div>
+            <div class="grupo">
+              <label>Data de Término</label>
+              <input type="date" id="data_fim">
+            </div>
+          </div>
+
+          <!-- Área de Orçamentos Vinculados → só aparece após seleção Cliente+Tipo -->
+          <div id="areaOrcamentos" style="margin: 1.5rem 0; padding-top: 1rem; border-top: 1px solid #eee; display: none;">
+            <h3 style="margin-bottom: 1rem;">Orçamentos Vinculados</h3>
+            <div id="listaOrcamentosDisponiveis" class="check-grupo" style="max-height: 240px; overflow-y: auto; padding: 0.5rem; border: 1px solid #ddd; border-radius: 6px;">
+              <em>Selecione Cliente e Tipo para carregar os orçamentos...</em>
+            </div>
+          </div>
+
+          <div id="mensagem" class="mensagem" style="margin-top: 1rem;"></div>
+          
+          <div class="botoes-form" style="margin-top: 1.5rem;">
+            <button type="submit" class="btn">💾 Salvar</button>
+            <button type="button" id="btnCancelar" class="btn secundario limpar">Cancelar</button>
+          </div>
+        </form>
+      </div>
+
+      <!-- Card: Listagem -->
+      <div class="cartao">
+        <h2 style="margin-top: 0; margin-bottom: 1.5rem;">📋 Lista de Projetos <span id="contagem"></span></h2>
+        <div class="tabela-container">
+          <table id="tabelaProjetos">
+            <thead>
+              <tr>
+                <th>ID</th>
+                <th>Nome</th>
+                <th>Cliente</th>
+                <th>Tipo</th>
+                <th>Início</th>
+                <th>Término</th>
+                <th>Status</th>
+                <th>Orçamentos</th>
+                <th>Ações</th>
+              </tr>
+            </thead>
+            <tbody id="listaProjetos"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script src="js/api.js"></script>
+  <script src="js/projetos.js"></script>
+</body>
+</html>

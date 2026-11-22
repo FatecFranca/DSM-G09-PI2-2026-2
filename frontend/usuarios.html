@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Usuários — Sistema de Gestão</title>
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+  <!-- Cabeçalho (mesmo padrão da Dashboard) -->
+  <header class="cabecalho">
+    <div class="logo">
+      <span class="logo__icone">⚙️</span>
+      <span>Sistema de Gestão</span>
+    </div>
+    
+    <nav class="navegacao">
+      <a href="dashboard.html" class="nav-link">Início</a>
+      <a href="clientes.html" class="nav-link">Clientes</a>
+      <a href="fornecedores.html" class="nav-link">Fornecedores</a>
+      <a href="materiais.html" class="nav-link ">Materiais</a>
+      <a href="orcamentos.html" class="nav-link">Orçamentos</a>
+      <a href="projetos.html" class="nav-link">Projetos</a>
+      <a href="usuarios.html" class="nav-link ativo">Usuários</a>
+    </nav>
+    
+    <div class="usuario-area">
+      <span class="usuario-nome" id="nomeUsuario">Usuário</span>
+      <span class="tag-nivel" id="nivelUsuario">consulta</span>
+      <a href="dashboard.html" class="btn btn-secundario" style="margin-left: 0.5rem;">Voltar</a>
+      <button class="btn-sair" id="btnSair">Sair</button>
+    </div>
+  </header>
+
+  <!-- Conteúdo Principal (mesmo padrão das outras páginas) -->
+  <main class="conteudo">
+    <h1 class="titulo-pagina">👤 Gestão de Usuários</h1>
+
+    <div class="painel-cartoes">
+      
+      <!-- Card 1: Cadastro -->
+      <div class="cartao">
+        <h2 id="tituloForm" style="margin-top: 0; margin-bottom: 1.5rem;">➕ Novo Usuário</h2>
+        <form id="formUsuario">
+          <input type="hidden" id="usuarioId">
+          
+          <div class="linha-form">
+            <div class="grupo">
+              <label>Nome Completo *</label>
+              <input type="text" id="usu_nome" required>
+            </div>
+            <div class="grupo">
+              <label>E-mail *</label>
+              <input type="email" id="usu_email" required>
+            </div>
+          </div>
+
+          <div class="linha-form">
+            <div class="grupo">
+              <label>Senha</label>
+              <input type="password" id="usu_senha" placeholder="Deixe vazio para manter">
+            </div>
+            <div class="grupo">
+              <label>Nível de Acesso *</label>
+              <select id="usu_nivel" required>
+                <option value="">Carregando...</option>
+              </select>
+            </div>
+            <div class="grupo">
+              <label>Status</label>
+              <select id="usu_ativo">
+                <option value="1" selected>Ativo</option>
+                <option value="0">Inativo</option>
+              </select>
+            </div>
+          </div>
+
+          <div id="mensagem" class="mensagem"></div>
+
+          <div class="botoes-form">
+            <button type="submit" class="btn btn-principal">💾 Salvar</button>
+            <button type="button" id="btnCancelar" class="btn btn-secundario limpar">Cancelar</button>
+          </div>
+        </form>
+      </div>
+
+      <!-- Card 2: Listagem -->
+      <div class="cartao">
+        <h2 style="margin-top: 0; margin-bottom: 1.5rem;">📋 Usuários Cadastrados <span id="contagem"></span></h2>
+        <button id="btnListar" class="btn btn-principal" style="margin-bottom: 1rem;">🔄 Atualizar Lista</button>
+        
+        <div class="tabela-container">
+          <table>
+            <thead>
+              <tr>
+                <th>Nome</th>
+                <th>E-mail</th>
+                <th>Nível</th>
+                <th>Status</th>
+                <th>Ações</th>
+              </tr>
+            </thead>
+            <tbody id="listaUsuarios">
+              <tr>
+                <td colspan="5" class="vazio">Clique em "Atualizar Lista"</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script src="js/validacoes.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/usuarios.js"></script>
+</body>
+</html>

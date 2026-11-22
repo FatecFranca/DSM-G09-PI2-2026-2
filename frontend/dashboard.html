@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Painel Principal — Sistema de Gestão</title>
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+  <!-- Cabeçalho -->
+  <header class="cabecalho">
+    <div class="logo">
+      <span class="logo__icone">⚙️</span>
+      <span>Sistema de Gestão</span>
+    </div>
+    
+    <nav class="navegacao">
+      <a href="dashboard.html" class="nav-link ativo">Início</a>
+      <a href="clientes.html" class="nav-link">Clientes</a>
+      <a href="fornecedores.html" class="nav-link">Fornecedores</a>
+      <a href="materiais.html" class="nav-link">Materiais</a>
+      <a href="orcamentos.html" class="nav-link">Orçamentos</a>
+      <a href="projetos.html" class="nav-link">Projetos</a>
+      <a href="usuarios.html" class="nav-link">Usuários</a>
+    </nav>
+    
+    <div class="usuario-area">
+      <span class="usuario-nome" id="nomeUsuario">Usuário</span>
+      <span class="tag-nivel" id="tagNivel">consulta</span>
+      <button class="btn-sair" id="btnSair">Sair</button>
+    </div>
+  </header>
+
+  <!-- Conteúdo Principal -->
+  <main class="conteudo">
+    <h1 class="titulo-pagina">Painel de Visão Geral</h1>
+
+    <div class="form-grid" style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
+      
+      <!-- Card Clientes -->
+      <div class="cartao" style="text-align: center; padding: 2rem;">
+        <p style="font-size: 2.5rem; margin-bottom: 0.5rem;">👥</p>
+        <h3 style="font-size: 2rem; font-weight: 700; color: var(--cor-primaria-escura); margin-bottom: 0.3rem;" id="qtdClientes">—</h3>
+        <p style="color: var(--cor-texto-suave); font-size: 0.9rem; margin-bottom: 1.25rem;">Clientes Cadastrados</p>
+        <div style="display: flex; flex-direction: column; gap: 0.75rem;">
+          <a href="clientes.html" class="btn btn-principal" style="width: 100%; justify-content: center;">
+            ➕ Novo Cliente
+          </a>
+          <a href="clientes.html" class="btn btn-secundario" style="width: 100%; justify-content: center;">
+            📋 Ver Lista
+          </a>
+        </div>
+      </div>
+      
+      <!-- Card Fornecedores -->
+      <div class="cartao" style="text-align: center; padding: 2rem;">
+        <p style="font-size: 2.5rem; margin-bottom: 0.5rem;">🤝</p>
+        <h3 style="font-size: 2rem; font-weight: 700; color: var(--cor-secundaria); margin-bottom: 0.3rem;" id="qtdFornecedores">—</h3>
+        <p style="color: var(--cor-texto-suave); font-size: 0.9rem; margin-bottom: 1.25rem;">Fornecedores Ativos</p>
+        <div style="display: flex; flex-direction: column; gap: 0.75rem;">
+          <a href="fornecedores.html" class="btn btn-principal" style="width: 100%; justify-content: center;">
+            ➕ Novo Fornecedor
+          </a>
+          <a href="fornecedores.html" class="btn btn-secundario" style="width: 100%; justify-content: center;">
+            📋 Ver Lista
+          </a>
+        </div>
+      </div>
+
+      <!-- Card Materiais -->
+      <div class="cartao" style="text-align: center; padding: 2rem;">
+        <p style="font-size: 2.5rem; margin-bottom: 0.5rem;">📦</p>
+        <h3 style="font-size: 2rem; font-weight: 700; color: var(--cor-destaque); margin-bottom: 0.3rem;" id="qtdMateriais">—</h3>
+        <p style="color: var(--cor-texto-suave); font-size: 0.9rem; margin-bottom: 1.25rem;">Materiais Cadastrados</p>
+        <div style="display: flex; flex-direction: column; gap: 0.75rem;">
+          <a href="materiais.html" class="btn btn-principal" style="width: 100%; justify-content: center;">
+            ➕ Novo Material
+          </a>
+          <a href="materiais.html" class="btn btn-secundario" style="width: 100%; justify-content: center;">
+            📋 Ver Lista
+          </a>
+        </div>
+      </div>
+
+      <!-- Card Orçamentos -->
+      <div class="cartao" style="text-align: center; padding: 2rem;">
+        <p style="font-size: 2.5rem; margin-bottom: 0.5rem;">📋</p>
+        <h3 style="font-size: 2rem; font-weight: 700; color: var(--cor-primaria); margin-bottom: 0.3rem;" id="qtdOrcamentos">—</h3>
+        <p style="color: var(--cor-texto-suave); font-size: 0.9rem; margin-bottom: 1.25rem;">Orçamentos Registrados</p>
+        <div style="display: flex; flex-direction: column; gap: 0.75rem;">
+          <a href="orcamentos.html" class="btn btn-principal" style="width: 100%; justify-content: center;">
+            ➕ Novo Orçamento
+          </a>
+          <a href="orcamentos.html" class="btn btn-secundario" style="width: 100%; justify-content: center;">
+            📋 Ver Lista
+          </a>
+        </div>
+      </div>
+
+      <!-- ✅ Card Projetos — INSERIDO ANTES DE USUÁRIOS -->
+      <div class="cartao" style="text-align: center; padding: 2rem;">
+        <p style="font-size: 2.5rem; margin-bottom: 0.5rem;">🏗️</p>
+        <h3 style="font-size: 2rem; font-weight: 700; color: var(--cor-primaria); margin-bottom: 0.3rem;" id="qtdProjetos">—</h3>
+        <p style="color: var(--cor-texto-suave); font-size: 0.9rem; margin-bottom: 1.25rem;">Projetos em Andamento</p>
+        <div style="display: flex; flex-direction: column; gap: 0.75rem;">
+          <a href="projetos.html" class="btn btn-principal" style="width: 100%; justify-content: center;">
+            ➕ Novo Projeto
+          </a>
+          <a href="projetos.html" class="btn btn-secundario" style="width: 100%; justify-content: center;">
+            📋 Ver Lista
+          </a>
+        </div>
+      </div>
+
+      <!-- Card Usuários -->
+      <div class="cartao" style="text-align: center; padding: 2rem;">
+        <p style="font-size: 2.5rem; margin-bottom: 0.5rem;">👤</p>
+        <h3 style="font-size: 2rem; font-weight: 700; color: var(--cor-destaque); margin-bottom: 0.3rem;" id="qtdUsuarios">—</h3>
+        <p style="color: var(--cor-texto-suave); font-size: 0.9rem; margin-bottom: 1.25rem;">Usuários do Sistema</p>
+        <div style="display: flex; flex-direction: column; gap: 0.75rem;">
+          <a href="usuarios.html" class="btn btn-principal" style="width: 100%; justify-content: center;">
+            ➕ Novo Usuário
+          </a>
+          <a href="usuarios.html" class="btn btn-secundario" style="width: 100%; justify-content: center;">
+            📋 Ver Lista
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <script src="js/api.js"></script>
+  <script src="js/dashboard.js"></script>
+</body>
+</html>

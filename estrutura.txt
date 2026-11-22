@@ -1,0 +1,3776 @@
+ O volume na unidade C n�o tem nome.
+ O N�mero de S�rie do Volume � A441-1B47
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis
+
+07/11/2026  23:58    <DIR>          .
+07/11/2026  23:57    <DIR>          ..
+07/11/2026  23:57    <DIR>          backend
+07/11/2026  23:54            15.040 database.sql
+07/11/2026  18:06    <DIR>          frontend
+05/11/2026  18:31    <DIR>          public
+07/11/2026  23:57    <DIR>          temp
+               1 arquivo(s)         15.040 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend
+
+07/11/2026  23:57    <DIR>          .
+07/11/2026  23:58    <DIR>          ..
+05/11/2026  21:03               344 .env
+05/11/2026  19:57    <DIR>          config
+07/11/2026  18:10    <DIR>          controllers
+05/11/2026  20:48             7.985 database.sql
+07/11/2026  23:56    <DIR>          middleware
+07/11/2026  15:17    <DIR>          models
+06/11/2026  01:13    <DIR>          node_modules
+06/11/2026  01:13               713 package.json
+06/11/2026  01:13            57.565 package-lock.json
+07/11/2026  23:56    <DIR>          routes
+07/11/2026  18:22             3.256 server.js
+05/11/2026  18:43    <DIR>          utils
+05/11/2026  18:23    <DIR>          views
+               5 arquivo(s)         69.863 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\config
+
+05/11/2026  19:57    <DIR>          .
+07/11/2026  23:57    <DIR>          ..
+05/11/2026  20:02               887 db.js
+               1 arquivo(s)            887 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\controllers
+
+07/11/2026  18:10    <DIR>          .
+07/11/2026  23:57    <DIR>          ..
+07/11/2026  02:57             2.206 clienteController.js
+05/11/2026  18:44             2.036 fornecedorController.js
+06/11/2026  23:53             3.247 materiaisController.js
+07/11/2026  17:03            10.517 orcamentosController.js
+07/11/2026  23:08             7.117 projetoController.js
+               5 arquivo(s)         25.123 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\middleware
+
+07/11/2026  23:56    <DIR>          .
+07/11/2026  23:57    <DIR>          ..
+06/11/2026  00:41             1.133 auth.js
+               1 arquivo(s)          1.133 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\models
+
+07/11/2026  15:17    <DIR>          .
+07/11/2026  23:57    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules
+
+06/11/2026  01:13    <DIR>          .
+07/11/2026  23:57    <DIR>          ..
+06/11/2026  01:13    <DIR>          .bin
+06/11/2026  01:13            56.603 .package-lock.json
+05/11/2026  18:37    <DIR>          @types
+05/11/2026  18:37    <DIR>          accepts
+05/11/2026  18:37    <DIR>          anymatch
+05/11/2026  18:37    <DIR>          aws-ssl-profiles
+05/11/2026  18:37    <DIR>          balanced-match
+06/11/2026  01:13    <DIR>          bcrypt
+05/11/2026  18:39    <DIR>          bcryptjs
+05/11/2026  18:37    <DIR>          binary-extensions
+05/11/2026  18:37    <DIR>          body-parser
+05/11/2026  18:37    <DIR>          brace-expansion
+05/11/2026  18:37    <DIR>          braces
+05/11/2026  18:38    <DIR>          buffer-equal-constant-time
+05/11/2026  18:37    <DIR>          bytes
+05/11/2026  18:37    <DIR>          call-bind-apply-helpers
+05/11/2026  18:37    <DIR>          call-bound
+05/11/2026  18:37    <DIR>          chokidar
+05/11/2026  18:37    <DIR>          content-disposition
+05/11/2026  18:37    <DIR>          content-type
+05/11/2026  18:37    <DIR>          cookie
+05/11/2026  18:37    <DIR>          cookie-signature
+05/11/2026  18:38    <DIR>          cors
+05/11/2026  18:37    <DIR>          debug
+05/11/2026  18:37    <DIR>          depd
+05/11/2026  18:37    <DIR>          dotenv
+05/11/2026  18:37    <DIR>          dunder-proto
+05/11/2026  18:38    <DIR>          ecdsa-sig-formatter
+05/11/2026  18:37    <DIR>          ee-first
+05/11/2026  18:37    <DIR>          ejs
+05/11/2026  18:37    <DIR>          encodeurl
+05/11/2026  18:37    <DIR>          escape-html
+05/11/2026  18:37    <DIR>          es-define-property
+05/11/2026  18:37    <DIR>          es-errors
+05/11/2026  18:37    <DIR>          es-object-atoms
+05/11/2026  18:37    <DIR>          etag
+05/11/2026  18:37    <DIR>          express
+05/11/2026  18:37    <DIR>          fill-range
+05/11/2026  18:37    <DIR>          finalhandler
+05/11/2026  18:37    <DIR>          forwarded
+05/11/2026  18:37    <DIR>          fresh
+05/11/2026  18:37    <DIR>          function-bind
+05/11/2026  18:37    <DIR>          generate-function
+05/11/2026  18:37    <DIR>          get-intrinsic
+05/11/2026  18:37    <DIR>          get-proto
+05/11/2026  18:37    <DIR>          glob-parent
+05/11/2026  18:37    <DIR>          gopd
+05/11/2026  18:37    <DIR>          has-flag
+05/11/2026  18:37    <DIR>          hasown
+05/11/2026  18:37    <DIR>          has-symbols
+05/11/2026  18:37    <DIR>          http-errors
+05/11/2026  18:37    <DIR>          iconv-lite
+05/11/2026  18:37    <DIR>          ignore-by-default
+05/11/2026  18:37    <DIR>          inherits
+05/11/2026  18:37    <DIR>          ipaddr.js
+05/11/2026  18:37    <DIR>          is-binary-path
+05/11/2026  18:37    <DIR>          is-extglob
+05/11/2026  18:37    <DIR>          is-glob
+05/11/2026  18:37    <DIR>          is-number
+05/11/2026  18:37    <DIR>          is-promise
+05/11/2026  18:37    <DIR>          is-property
+05/11/2026  18:38    <DIR>          jsonwebtoken
+05/11/2026  18:38    <DIR>          jwa
+05/11/2026  18:38    <DIR>          jws
+05/11/2026  18:38    <DIR>          lodash.includes
+05/11/2026  18:38    <DIR>          lodash.isboolean
+05/11/2026  18:38    <DIR>          lodash.isinteger
+05/11/2026  18:38    <DIR>          lodash.isnumber
+05/11/2026  18:38    <DIR>          lodash.isplainobject
+05/11/2026  18:38    <DIR>          lodash.isstring
+05/11/2026  18:38    <DIR>          lodash.once
+05/11/2026  18:37    <DIR>          long
+05/11/2026  18:37    <DIR>          lru.min
+05/11/2026  18:37    <DIR>          math-intrinsics
+05/11/2026  18:37    <DIR>          media-typer
+05/11/2026  18:37    <DIR>          merge-descriptors
+05/11/2026  18:37    <DIR>          method-override
+05/11/2026  18:37    <DIR>          methods
+05/11/2026  18:37    <DIR>          mime-db
+05/11/2026  18:37    <DIR>          mime-types
+05/11/2026  18:37    <DIR>          minimatch
+05/11/2026  18:37    <DIR>          ms
+05/11/2026  18:37    <DIR>          mysql2
+05/11/2026  18:37    <DIR>          named-placeholders
+05/11/2026  18:37    <DIR>          negotiator
+06/11/2026  01:13    <DIR>          node-addon-api
+06/11/2026  01:13    <DIR>          node-gyp-build
+05/11/2026  18:37    <DIR>          nodemon
+05/11/2026  18:37    <DIR>          normalize-path
+05/11/2026  18:38    <DIR>          object-assign
+05/11/2026  18:37    <DIR>          object-inspect
+05/11/2026  18:37    <DIR>          once
+05/11/2026  18:37    <DIR>          on-finished
+05/11/2026  18:37    <DIR>          parseurl
+05/11/2026  18:37    <DIR>          path-to-regexp
+05/11/2026  18:37    <DIR>          picomatch
+05/11/2026  18:37    <DIR>          proxy-addr
+05/11/2026  18:37    <DIR>          pstree.remy
+05/11/2026  18:37    <DIR>          qs
+05/11/2026  18:37    <DIR>          range-parser
+05/11/2026  18:37    <DIR>          raw-body
+05/11/2026  18:37    <DIR>          readdirp
+05/11/2026  18:37    <DIR>          router
+05/11/2026  18:38    <DIR>          safe-buffer
+05/11/2026  18:37    <DIR>          safer-buffer
+05/11/2026  18:37    <DIR>          semver
+05/11/2026  18:37    <DIR>          send
+05/11/2026  18:37    <DIR>          serve-static
+05/11/2026  18:37    <DIR>          setprototypeof
+05/11/2026  18:37    <DIR>          side-channel
+05/11/2026  18:37    <DIR>          side-channel-list
+05/11/2026  18:37    <DIR>          side-channel-map
+05/11/2026  18:37    <DIR>          side-channel-weakmap
+05/11/2026  18:37    <DIR>          simple-update-notifier
+05/11/2026  18:37    <DIR>          sql-escaper
+05/11/2026  18:37    <DIR>          statuses
+05/11/2026  18:37    <DIR>          supports-color
+05/11/2026  18:37    <DIR>          toidentifier
+05/11/2026  18:37    <DIR>          to-regex-range
+05/11/2026  18:37    <DIR>          touch
+05/11/2026  18:37    <DIR>          type-is
+05/11/2026  18:37    <DIR>          undefsafe
+05/11/2026  18:37    <DIR>          undici-types
+05/11/2026  18:37    <DIR>          unpipe
+05/11/2026  18:37    <DIR>          vary
+05/11/2026  18:37    <DIR>          wrappy
+               1 arquivo(s)         56.603 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\.bin
+
+06/11/2026  01:13    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:39               387 bcrypt
+05/11/2026  18:39               324 bcrypt.cmd
+05/11/2026  18:39               801 bcrypt.ps1
+05/11/2026  18:37               377 ejs
+05/11/2026  18:37               319 ejs.cmd
+05/11/2026  18:37               781 ejs.ps1
+06/11/2026  01:13               391 node-gyp-build
+06/11/2026  01:13               326 node-gyp-build.cmd
+06/11/2026  01:13               809 node-gyp-build.ps1
+06/11/2026  01:13               401 node-gyp-build-optional
+06/11/2026  01:13               331 node-gyp-build-optional.cmd
+06/11/2026  01:13               829 node-gyp-build-optional.ps1
+06/11/2026  01:13               405 node-gyp-build-test
+06/11/2026  01:13               333 node-gyp-build-test.cmd
+06/11/2026  01:13               837 node-gyp-build-test.ps1
+05/11/2026  18:37               393 nodemon
+05/11/2026  18:37               327 nodemon.cmd
+05/11/2026  18:37               813 nodemon.ps1
+05/11/2026  18:37               393 nodetouch
+05/11/2026  18:37               327 nodetouch.cmd
+05/11/2026  18:37               813 nodetouch.ps1
+05/11/2026  18:37               389 semver
+05/11/2026  18:37               325 semver.cmd
+05/11/2026  18:37               805 semver.ps1
+              24 arquivo(s)         12.236 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\@types
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37    <DIR>          node
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\@types\node
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37    <DIR>          assert
+05/11/2026  18:37            42.891 assert.d.ts
+05/11/2026  18:37            29.929 async_hooks.d.ts
+05/11/2026  18:37            22.956 buffer.buffer.d.ts
+05/11/2026  18:37            81.198 buffer.d.ts
+05/11/2026  18:37            59.901 child_process.d.ts
+05/11/2026  18:37            19.527 cluster.d.ts
+05/11/2026  18:37             4.250 console.d.ts
+05/11/2026  18:37               491 constants.d.ts
+05/11/2026  18:37           168.968 crypto.d.ts
+05/11/2026  18:37            31.103 dgram.d.ts
+05/11/2026  18:37            34.563 diagnostics_channel.d.ts
+05/11/2026  18:37    <DIR>          dns
+05/11/2026  18:37            34.353 dns.d.ts
+05/11/2026  18:37             6.597 domain.d.ts
+05/11/2026  18:37            47.375 events.d.ts
+05/11/2026  18:37            20.654 ffi.d.ts
+05/11/2026  18:37    <DIR>          fs
+05/11/2026  18:37           202.247 fs.d.ts
+05/11/2026  18:37             5.084 globals.d.ts
+05/11/2026  18:37             4.864 globals.typedarray.d.ts
+05/11/2026  18:37            99.276 http.d.ts
+05/11/2026  18:37           119.406 http2.d.ts
+05/11/2026  18:37            16.812 https.d.ts
+05/11/2026  18:37             5.053 index.d.ts
+05/11/2026  18:37    <DIR>          inspector
+05/11/2026  18:37            12.276 inspector.d.ts
+05/11/2026  18:37           228.362 inspector.generated.d.ts
+05/11/2026  18:37             1.141 LICENSE
+05/11/2026  18:37            32.983 module.d.ts
+05/11/2026  18:37            47.835 net.d.ts
+05/11/2026  18:37            19.278 os.d.ts
+05/11/2026  18:37             4.057 package.json
+05/11/2026  18:37    <DIR>          path
+05/11/2026  18:37             7.639 path.d.ts
+05/11/2026  18:37            23.593 perf_hooks.d.ts
+05/11/2026  18:37           115.113 process.d.ts
+05/11/2026  18:37             3.780 punycode.d.ts
+05/11/2026  18:37             6.642 querystring.d.ts
+05/11/2026  18:37            94.639 quic.d.ts
+05/11/2026  18:37    <DIR>          readline
+05/11/2026  18:37            21.216 readline.d.ts
+05/11/2026  18:37             1.441 README.md
+05/11/2026  18:37            19.023 repl.d.ts
+05/11/2026  18:37             2.045 sea.d.ts
+05/11/2026  18:37            55.651 sqlite.d.ts
+05/11/2026  18:37    <DIR>          stream
+05/11/2026  18:37            90.588 stream.d.ts
+05/11/2026  18:37             1.318 string_decoder.d.ts
+05/11/2026  18:37    <DIR>          test
+05/11/2026  18:37           120.493 test.d.ts
+05/11/2026  18:37    <DIR>          timers
+05/11/2026  18:37             7.351 timers.d.ts
+05/11/2026  18:37            60.511 tls.d.ts
+05/11/2026  18:37             3.842 trace_events.d.ts
+05/11/2026  18:37    <DIR>          ts5.6
+05/11/2026  18:37    <DIR>          ts5.7
+05/11/2026  18:37            11.270 tty.d.ts
+05/11/2026  18:37            25.457 url.d.ts
+05/11/2026  18:37    <DIR>          util
+05/11/2026  18:37            65.566 util.d.ts
+05/11/2026  18:37            42.889 v8.d.ts
+05/11/2026  18:37             6.606 vfs.d.ts
+05/11/2026  18:37            53.187 vm.d.ts
+05/11/2026  18:37             6.250 wasi.d.ts
+05/11/2026  18:37    <DIR>          web-globals
+05/11/2026  18:37            29.817 worker_threads.d.ts
+05/11/2026  18:37    <DIR>          zlib
+05/11/2026  18:37            64.097 zlib.d.ts
+              55 arquivo(s)      2.343.454 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\@types\node\assert
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             1.652 strict.d.ts
+               1 arquivo(s)          1.652 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\@types\node\dns
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37            20.815 promises.d.ts
+               1 arquivo(s)         20.815 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\@types\node\fs
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37            63.652 promises.d.ts
+               1 arquivo(s)         63.652 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\@types\node\inspector
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             1.471 promises.d.ts
+               1 arquivo(s)          1.471 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\@types\node\path
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               194 posix.d.ts
+05/11/2026  18:37               194 win32.d.ts
+               2 arquivo(s)            388 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\@types\node\readline
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             6.418 promises.d.ts
+               1 arquivo(s)          6.418 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\@types\node\stream
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             4.272 consumers.d.ts
+05/11/2026  18:37            17.286 iter.d.ts
+05/11/2026  18:37             7.347 promises.d.ts
+05/11/2026  18:37            13.018 web.d.ts
+               4 arquivo(s)         41.923 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\@types\node\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             2.835 reporters.d.ts
+               1 arquivo(s)          2.835 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\@types\node\timers
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             3.383 promises.d.ts
+               1 arquivo(s)          3.383 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\@types\node\ts5.6
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37            22.092 buffer.buffer.d.ts
+05/11/2026  18:37    <DIR>          compatibility
+05/11/2026  18:37             1.238 globals.typedarray.d.ts
+05/11/2026  18:37             5.381 index.d.ts
+               3 arquivo(s)         28.711 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\@types\node\ts5.6\compatibility
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             3.811 float16array.d.ts
+               1 arquivo(s)          3.811 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\@types\node\ts5.7
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37    <DIR>          compatibility
+05/11/2026  18:37             5.380 index.d.ts
+               1 arquivo(s)          5.380 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\@types\node\ts5.7\compatibility
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             3.872 float16array.d.ts
+               1 arquivo(s)          3.872 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\@types\node\util
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37            23.832 types.d.ts
+               1 arquivo(s)         23.832 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\@types\node\web-globals
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             1.989 abortcontroller.d.ts
+05/11/2026  18:37               902 blob.d.ts
+05/11/2026  18:37               149 console.d.ts
+05/11/2026  18:37             1.449 crypto.d.ts
+05/11/2026  18:37             3.052 domexception.d.ts
+05/11/2026  18:37               414 encoding.d.ts
+05/11/2026  18:37             3.367 events.d.ts
+05/11/2026  18:37             3.524 fetch.d.ts
+05/11/2026  18:37               259 importmeta.d.ts
+05/11/2026  18:37             1.113 messaging.d.ts
+05/11/2026  18:37               891 navigator.d.ts
+05/11/2026  18:37             2.551 performance.d.ts
+05/11/2026  18:37               724 storage.d.ts
+05/11/2026  18:37             6.942 streams.d.ts
+05/11/2026  18:37             1.557 timers.d.ts
+05/11/2026  18:37               800 url.d.ts
+              16 arquivo(s)         29.683 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\@types\node\zlib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             5.077 iter.d.ts
+               1 arquivo(s)          5.077 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\accepts
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             5.218 HISTORY.md
+05/11/2026  18:37             5.253 index.js
+05/11/2026  18:37             1.167 LICENSE
+05/11/2026  18:37             1.157 package.json
+05/11/2026  18:37             4.122 README.md
+               5 arquivo(s)         16.917 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\anymatch
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               763 index.d.ts
+05/11/2026  18:37             3.180 index.js
+05/11/2026  18:37               784 LICENSE
+05/11/2026  18:37               904 package.json
+05/11/2026  18:37             4.023 README.md
+               5 arquivo(s)          9.654 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\aws-ssl-profiles
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.109 LICENSE
+05/11/2026  18:37             1.194 package.json
+05/11/2026  18:37             2.271 README.md
+               3 arquivo(s)          4.574 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\aws-ssl-profiles\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37    <DIR>          @types
+05/11/2026  18:37               276 index.d.ts
+05/11/2026  18:37               438 index.js
+05/11/2026  18:37    <DIR>          profiles
+               2 arquivo(s)            714 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\aws-ssl-profiles\lib\@types
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37                67 profiles.d.ts
+05/11/2026  18:37                77 profiles.js
+               2 arquivo(s)            144 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\aws-ssl-profiles\lib\profiles
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37    <DIR>          ca
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\aws-ssl-profiles\lib\profiles\ca
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               428 defaults.d.ts
+05/11/2026  18:37           214.342 defaults.js
+05/11/2026  18:37               302 proxies.d.ts
+05/11/2026  18:37             7.605 proxies.js
+               4 arquivo(s)        222.677 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\balanced-match
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37    <DIR>          dist
+05/11/2026  18:37             1.155 LICENSE.md
+05/11/2026  18:37             1.596 package.json
+05/11/2026  18:37             1.740 README.md
+               3 arquivo(s)          4.491 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\balanced-match\dist
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37    <DIR>          commonjs
+05/11/2026  18:37    <DIR>          esm
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\balanced-match\dist\commonjs
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               334 index.d.ts
+05/11/2026  18:37               323 index.d.ts.map
+05/11/2026  18:37             1.779 index.js
+05/11/2026  18:37             4.189 index.js.map
+05/11/2026  18:37                25 package.json
+               5 arquivo(s)          6.650 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\balanced-match\dist\esm
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               334 index.d.ts
+05/11/2026  18:37               323 index.d.ts.map
+05/11/2026  18:37             1.608 index.js
+05/11/2026  18:37             4.155 index.js.map
+05/11/2026  18:37                23 package.json
+               5 arquivo(s)          6.443 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\bcrypt
+
+06/11/2026  01:13    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+06/11/2026  01:13                60 .dockerignore
+06/11/2026  01:13               284 .editorconfig
+06/11/2026  01:13    <DIR>          .github
+06/11/2026  01:13             7.150 bcrypt.js
+06/11/2026  01:13             1.264 binding.gyp
+06/11/2026  01:13             1.037 build-all.sh
+06/11/2026  01:13             4.137 CHANGELOG.md
+06/11/2026  01:13             1.498 Dockerfile
+06/11/2026  01:13               965 Dockerfile-alpine
+06/11/2026  01:13    <DIR>          examples
+06/11/2026  01:13             1.026 ISSUE_TEMPLATE.md
+06/11/2026  01:13             1.060 LICENSE
+06/11/2026  01:13               203 Makefile
+06/11/2026  01:13             2.201 package.json
+06/11/2026  01:13    <DIR>          prebuilds
+06/11/2026  01:13             1.123 promises.js
+06/11/2026  01:13            17.302 README.md
+06/11/2026  01:13               474 SECURITY.md
+06/11/2026  01:13    <DIR>          src
+06/11/2026  01:13    <DIR>          test
+              15 arquivo(s)         39.784 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\bcrypt\.github
+
+06/11/2026  01:13    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+06/11/2026  01:13    <DIR>          workflows
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\bcrypt\.github\workflows
+
+06/11/2026  01:13    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+06/11/2026  01:13             4.069 build-pack-publish.yml
+06/11/2026  01:13               853 ci.yaml
+               2 arquivo(s)          4.922 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\bcrypt\examples
+
+06/11/2026  01:13    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+06/11/2026  01:13               919 async_compare.js
+06/11/2026  01:13               162 forever_gen_salt.js
+               2 arquivo(s)          1.081 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\bcrypt\prebuilds
+
+06/11/2026  01:13    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+06/11/2026  01:13    <DIR>          darwin-arm64
+06/11/2026  01:13    <DIR>          darwin-x64
+06/11/2026  01:13    <DIR>          linux-arm
+06/11/2026  01:13    <DIR>          linux-arm64
+06/11/2026  01:13    <DIR>          linux-x64
+06/11/2026  01:13    <DIR>          win32-arm64
+06/11/2026  01:13    <DIR>          win32-x64
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\bcrypt\prebuilds\darwin-arm64
+
+06/11/2026  01:13    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+06/11/2026  01:13            88.608 bcrypt.node
+               1 arquivo(s)         88.608 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\bcrypt\prebuilds\darwin-x64
+
+06/11/2026  01:13    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+06/11/2026  01:13            55.488 bcrypt.node
+               1 arquivo(s)         55.488 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\bcrypt\prebuilds\linux-arm
+
+06/11/2026  01:13    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+06/11/2026  01:13            67.504 bcrypt.glibc.node
+06/11/2026  01:13            67.420 bcrypt.musl.node
+               2 arquivo(s)        134.924 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\bcrypt\prebuilds\linux-arm64
+
+06/11/2026  01:13    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+06/11/2026  01:13            76.640 bcrypt.glibc.node
+06/11/2026  01:13            76.552 bcrypt.musl.node
+               2 arquivo(s)        153.192 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\bcrypt\prebuilds\linux-x64
+
+06/11/2026  01:13    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+06/11/2026  01:13            84.904 bcrypt.glibc.node
+06/11/2026  01:13            96.424 bcrypt.musl.node
+               2 arquivo(s)        181.328 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\bcrypt\prebuilds\win32-arm64
+
+06/11/2026  01:13    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+06/11/2026  01:13           182.784 bcrypt.node
+               1 arquivo(s)        182.784 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\bcrypt\prebuilds\win32-x64
+
+06/11/2026  01:13    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+06/11/2026  01:13           195.584 bcrypt.node
+               1 arquivo(s)        195.584 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\bcrypt\src
+
+06/11/2026  01:13    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+06/11/2026  01:13             8.035 bcrypt.cc
+06/11/2026  01:13            10.273 bcrypt_node.cc
+06/11/2026  01:13            23.220 blowfish.cc
+06/11/2026  01:13             4.772 node_blf.h
+               4 arquivo(s)         46.300 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\bcrypt\test
+
+06/11/2026  01:13    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+06/11/2026  01:13             5.893 async.test.js
+06/11/2026  01:13             5.331 implementation.test.js
+06/11/2026  01:13             5.187 promise.test.js
+06/11/2026  01:13             1.996 repetitions.test.js
+06/11/2026  01:13             4.347 sync.test.js
+               5 arquivo(s)         22.754 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\bcryptjs
+
+05/11/2026  18:39    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:39    <DIR>          bin
+05/11/2026  18:39                89 index.d.ts
+05/11/2026  18:39            41.528 index.js
+05/11/2026  18:39             1.530 LICENSE
+05/11/2026  18:39             2.068 package.json
+05/11/2026  18:39             7.628 README.md
+05/11/2026  18:39             5.653 types.d.ts
+05/11/2026  18:39    <DIR>          umd
+               6 arquivo(s)         58.496 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\bcryptjs\bin
+
+05/11/2026  18:39    <DIR>          .
+05/11/2026  18:39    <DIR>          ..
+05/11/2026  18:39               528 bcrypt
+               1 arquivo(s)            528 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\bcryptjs\umd
+
+05/11/2026  18:39    <DIR>          .
+05/11/2026  18:39    <DIR>          ..
+05/11/2026  18:39                83 index.d.ts
+05/11/2026  18:39            47.507 index.js
+05/11/2026  18:39                25 package.json
+05/11/2026  18:39             5.653 types.d.ts
+               4 arquivo(s)         53.268 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\binary-extensions
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             2.193 binary-extensions.json
+05/11/2026  18:37                87 binary-extensions.json.d.ts
+05/11/2026  18:37               249 index.d.ts
+05/11/2026  18:37                54 index.js
+05/11/2026  18:37             1.167 license
+05/11/2026  18:37               739 package.json
+05/11/2026  18:37               541 readme.md
+               7 arquivo(s)          5.030 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\body-parser
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               976 index.js
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.172 LICENSE
+05/11/2026  18:37             1.560 package.json
+05/11/2026  18:37            21.898 README.md
+               4 arquivo(s)         25.606 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\body-parser\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             6.094 read.js
+05/11/2026  18:37    <DIR>          types
+05/11/2026  18:37             1.862 utils.js
+               2 arquivo(s)          7.956 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\body-parser\lib\types
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             4.393 json.js
+05/11/2026  18:37               805 raw.js
+05/11/2026  18:37               669 text.js
+05/11/2026  18:37             3.470 urlencoded.js
+               4 arquivo(s)          9.337 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\brace-expansion
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37    <DIR>          dist
+05/11/2026  18:37             1.144 LICENSE
+05/11/2026  18:37             1.594 package.json
+05/11/2026  18:37             2.775 README.md
+               3 arquivo(s)          5.513 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\brace-expansion\dist
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37    <DIR>          commonjs
+05/11/2026  18:37    <DIR>          esm
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\brace-expansion\dist\commonjs
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               454 index.d.ts
+05/11/2026  18:37               465 index.d.ts.map
+05/11/2026  18:37            13.985 index.js
+05/11/2026  18:37            24.935 index.js.map
+05/11/2026  18:37                25 package.json
+               5 arquivo(s)         39.864 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\brace-expansion\dist\esm
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               454 index.d.ts
+05/11/2026  18:37               465 index.d.ts.map
+05/11/2026  18:37            13.699 index.js
+05/11/2026  18:37            24.979 index.js.map
+05/11/2026  18:37                23 package.json
+               5 arquivo(s)         39.620 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\braces
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             4.380 index.js
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.091 LICENSE
+05/11/2026  18:37             1.647 package.json
+05/11/2026  18:37            21.505 README.md
+               4 arquivo(s)         28.623 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\braces\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             1.501 compile.js
+05/11/2026  18:37             1.589 constants.js
+05/11/2026  18:37             2.797 expand.js
+05/11/2026  18:37             6.899 parse.js
+05/11/2026  18:37               708 stringify.js
+05/11/2026  18:37             2.518 utils.js
+               6 arquivo(s)         16.012 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\buffer-equal-constant-time
+
+05/11/2026  18:38    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:38                26 .npmignore
+05/11/2026  18:38                45 .travis.yml
+05/11/2026  18:38             1.045 index.js
+05/11/2026  18:38             1.518 LICENSE.txt
+05/11/2026  18:38               484 package.json
+05/11/2026  18:38             1.101 README.md
+05/11/2026  18:38             1.013 test.js
+               7 arquivo(s)          5.232 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\bytes
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             1.775 History.md
+05/11/2026  18:37             3.613 index.js
+05/11/2026  18:37             1.153 LICENSE
+05/11/2026  18:37               959 package.json
+05/11/2026  18:37             4.770 Readme.md
+               5 arquivo(s)         12.270 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\call-bind-apply-helpers
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               232 .eslintrc
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37               139 .nycrc
+05/11/2026  18:37                23 actualApply.d.ts
+05/11/2026  18:37               280 actualApply.js
+05/11/2026  18:37               614 applyBind.d.ts
+05/11/2026  18:37               264 applyBind.js
+05/11/2026  18:37             1.938 CHANGELOG.md
+05/11/2026  18:37                34 functionApply.d.ts
+05/11/2026  18:37                99 functionApply.js
+05/11/2026  18:37                33 functionCall.d.ts
+05/11/2026  18:37                97 functionCall.js
+05/11/2026  18:37             2.226 index.d.ts
+05/11/2026  18:37               511 index.js
+05/11/2026  18:37             1.071 LICENSE
+05/11/2026  18:37             2.480 package.json
+05/11/2026  18:37             2.330 README.md
+05/11/2026  18:37                82 reflectApply.d.ts
+05/11/2026  18:37               132 reflectApply.js
+05/11/2026  18:37    <DIR>          test
+05/11/2026  18:37               115 tsconfig.json
+              19 arquivo(s)         12.700 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\call-bind-apply-helpers\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               594 FUNDING.yml
+               1 arquivo(s)            594 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\call-bind-apply-helpers\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             2.658 index.js
+               1 arquivo(s)          2.658 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\call-bound
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               138 .eslintrc
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37               139 .nycrc
+05/11/2026  18:37             2.880 CHANGELOG.md
+05/11/2026  18:37             4.651 index.d.ts
+05/11/2026  18:37               687 index.js
+05/11/2026  18:37             1.071 LICENSE
+05/11/2026  18:37             2.507 package.json
+05/11/2026  18:37             1.897 README.md
+05/11/2026  18:37    <DIR>          test
+05/11/2026  18:37               137 tsconfig.json
+               9 arquivo(s)         14.107 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\call-bound\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               581 FUNDING.yml
+               1 arquivo(s)            581 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\call-bound\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             2.418 index.js
+               1 arquivo(s)          2.418 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\chokidar
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37            28.379 index.js
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.129 LICENSE
+05/11/2026  18:37             1.648 package.json
+05/11/2026  18:37            14.392 README.md
+05/11/2026  18:37    <DIR>          types
+               4 arquivo(s)         45.548 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\chokidar\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             1.878 constants.js
+05/11/2026  18:37            16.368 fsevents-handler.js
+05/11/2026  18:37            20.067 nodefs-handler.js
+               3 arquivo(s)         38.313 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\chokidar\types
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             6.339 index.d.ts
+               1 arquivo(s)          6.339 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\content-disposition
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37    <DIR>          dist
+05/11/2026  18:37             1.094 LICENSE
+05/11/2026  18:37             1.187 package.json
+05/11/2026  18:37             6.796 README.md
+               3 arquivo(s)          9.077 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\content-disposition\dist
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             2.106 index.d.ts
+05/11/2026  18:37            13.135 index.js
+05/11/2026  18:37            24.263 index.js.map
+               3 arquivo(s)         39.504 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\content-type
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37    <DIR>          dist
+05/11/2026  18:37             1.089 LICENSE
+05/11/2026  18:37             1.126 package.json
+05/11/2026  18:37             2.532 README.md
+               3 arquivo(s)          4.747 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\content-type\dist
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             1.124 index.d.ts
+05/11/2026  18:37             5.757 index.js
+05/11/2026  18:37            11.508 index.js.map
+               3 arquivo(s)         18.389 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\cookie
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             8.166 index.js
+05/11/2026  18:37             1.175 LICENSE
+05/11/2026  18:37             1.092 package.json
+05/11/2026  18:37            11.769 README.md
+05/11/2026  18:37             1.180 SECURITY.md
+               5 arquivo(s)         23.382 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\cookie-signature
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             1.481 History.md
+05/11/2026  18:37             1.413 index.js
+05/11/2026  18:37             1.124 LICENSE
+05/11/2026  18:37               548 package.json
+05/11/2026  18:37               427 Readme.md
+               5 arquivo(s)          4.993 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\cors
+
+05/11/2026  18:38    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:38    <DIR>          lib
+05/11/2026  18:38             1.095 LICENSE
+05/11/2026  18:38               926 package.json
+05/11/2026  18:38            11.348 README.md
+               3 arquivo(s)         13.369 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\cors\lib
+
+05/11/2026  18:38    <DIR>          .
+05/11/2026  18:38    <DIR>          ..
+05/11/2026  18:38             6.587 index.js
+               1 arquivo(s)          6.587 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\debug
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             1.139 LICENSE
+05/11/2026  18:37             1.479 package.json
+05/11/2026  18:37            22.115 README.md
+05/11/2026  18:37    <DIR>          src
+               3 arquivo(s)         24.733 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\debug\src
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             6.103 browser.js
+05/11/2026  18:37             6.915 common.js
+05/11/2026  18:37               314 index.js
+05/11/2026  18:37             4.728 node.js
+               4 arquivo(s)         18.060 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\depd
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             2.256 History.md
+05/11/2026  18:37            10.932 index.js
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.094 LICENSE
+05/11/2026  18:37             1.335 package.json
+05/11/2026  18:37             9.988 Readme.md
+               5 arquivo(s)         25.605 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\depd\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37    <DIR>          browser
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\depd\lib\browser
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             1.512 index.js
+               1 arquivo(s)          1.512 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\dotenv
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37            22.976 CHANGELOG.md
+05/11/2026  18:37                11 config.d.ts
+05/11/2026  18:37               176 config.js
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.294 LICENSE
+05/11/2026  18:37             1.716 package.json
+05/11/2026  18:37            24.738 README.md
+05/11/2026  18:37            24.072 README-es.md
+05/11/2026  18:37                69 SECURITY.md
+05/11/2026  18:37    <DIR>          skills
+               8 arquivo(s)         75.052 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\dotenv\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               385 cli-options.js
+05/11/2026  18:37               733 env-options.js
+05/11/2026  18:37             5.466 main.d.ts
+05/11/2026  18:37            11.927 main.js
+               4 arquivo(s)         18.511 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\dotenv\skills
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37    <DIR>          dotenv
+05/11/2026  18:37    <DIR>          dotenvx
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\dotenv\skills\dotenv
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             6.744 SKILL.md
+               1 arquivo(s)          6.744 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\dotenv\skills\dotenvx
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             3.186 SKILL.md
+               1 arquivo(s)          3.186 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\dunder-proto
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37                43 .eslintrc
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37               216 .nycrc
+05/11/2026  18:37             1.547 CHANGELOG.md
+05/11/2026  18:37               121 get.d.ts
+05/11/2026  18:37               980 get.js
+05/11/2026  18:37             1.073 LICENSE
+05/11/2026  18:37             2.108 package.json
+05/11/2026  18:37             1.907 README.md
+05/11/2026  18:37               144 set.d.ts
+05/11/2026  18:37             1.276 set.js
+05/11/2026  18:37    <DIR>          test
+05/11/2026  18:37               116 tsconfig.json
+              11 arquivo(s)          9.531 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\dunder-proto\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               583 FUNDING.yml
+               1 arquivo(s)            583 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\dunder-proto\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             1.143 get.js
+05/11/2026  18:37                51 index.js
+05/11/2026  18:37             1.695 set.js
+               3 arquivo(s)          2.889 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\ecdsa-sig-formatter
+
+05/11/2026  18:38    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:38                11 CODEOWNERS
+05/11/2026  18:38            11.312 LICENSE
+05/11/2026  18:38             1.234 package.json
+05/11/2026  18:38             1.872 README.md
+05/11/2026  18:38    <DIR>          src
+               4 arquivo(s)         14.429 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\ecdsa-sig-formatter\src
+
+05/11/2026  18:38    <DIR>          .
+05/11/2026  18:38    <DIR>          ..
+05/11/2026  18:38               694 ecdsa-sig-formatter.d.ts
+05/11/2026  18:38             5.009 ecdsa-sig-formatter.js
+05/11/2026  18:38               456 param-bytes-for-alg.js
+               3 arquivo(s)          6.159 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\ee-first
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             1.684 index.js
+05/11/2026  18:37             1.099 LICENSE
+05/11/2026  18:37               859 package.json
+05/11/2026  18:37             2.617 README.md
+               4 arquivo(s)          6.259 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\ejs
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37    <DIR>          bin
+05/11/2026  18:37            61.275 ejs.js
+05/11/2026  18:37            27.968 ejs.min.js
+05/11/2026  18:37             7.353 jakefile.js
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37            11.358 LICENSE
+05/11/2026  18:37             1.111 package.json
+05/11/2026  18:37            14.445 README.md
+05/11/2026  18:37             1.677 usage.txt
+               7 arquivo(s)        125.187 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\ejs\bin
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             4.771 cli.js
+               1 arquivo(s)          4.771 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\ejs\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37    <DIR>          cjs
+05/11/2026  18:37    <DIR>          esm
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\ejs\lib\cjs
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37            31.520 ejs.js
+05/11/2026  18:37                19 package.json
+05/11/2026  18:37             4.361 parseargs.js
+05/11/2026  18:37             6.988 utils.js
+               4 arquivo(s)         42.888 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\ejs\lib\esm
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37            27.607 ejs.js
+05/11/2026  18:37                23 package.json
+05/11/2026  18:37             3.774 parseargs.js
+05/11/2026  18:37             6.551 utils.js
+               4 arquivo(s)         37.955 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\encodeurl
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             1.438 index.js
+05/11/2026  18:37             1.089 LICENSE
+05/11/2026  18:37             1.077 package.json
+05/11/2026  18:37             3.978 README.md
+               4 arquivo(s)          7.582 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\es-define-property
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               144 .eslintrc
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37               139 .nycrc
+05/11/2026  18:37             2.296 CHANGELOG.md
+05/11/2026  18:37                93 index.d.ts
+05/11/2026  18:37               288 index.js
+05/11/2026  18:37             1.071 LICENSE
+05/11/2026  18:37             2.129 package.json
+05/11/2026  18:37             2.056 README.md
+05/11/2026  18:37    <DIR>          test
+05/11/2026  18:37               138 tsconfig.json
+               9 arquivo(s)          8.354 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\es-define-property\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               564 FUNDING.yml
+               1 arquivo(s)            564 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\es-define-property\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             1.299 index.js
+               1 arquivo(s)          1.299 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\es-errors
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37                43 .eslintrc
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37             1.833 CHANGELOG.md
+05/11/2026  18:37                68 eval.d.ts
+05/11/2026  18:37                75 eval.js
+05/11/2026  18:37                56 index.d.ts
+05/11/2026  18:37                66 index.js
+05/11/2026  18:37             1.071 LICENSE
+05/11/2026  18:37             2.174 package.json
+05/11/2026  18:37                71 range.d.ts
+05/11/2026  18:37                77 range.js
+05/11/2026  18:37             2.114 README.md
+05/11/2026  18:37                83 ref.d.ts
+05/11/2026  18:37                79 ref.js
+05/11/2026  18:37                74 syntax.d.ts
+05/11/2026  18:37                79 syntax.js
+05/11/2026  18:37    <DIR>          test
+05/11/2026  18:37             3.170 tsconfig.json
+05/11/2026  18:37                67 type.d.ts
+05/11/2026  18:37                75 type.js
+05/11/2026  18:37                65 uri.d.ts
+05/11/2026  18:37                73 uri.js
+              20 arquivo(s)         11.413 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\es-errors\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               555 FUNDING.yml
+               1 arquivo(s)            555 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\es-errors\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               356 index.js
+               1 arquivo(s)            356 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\es-object-atoms
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               229 .eslintrc
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37             2.622 CHANGELOG.md
+05/11/2026  18:37                59 index.d.ts
+05/11/2026  18:37                67 index.js
+05/11/2026  18:37               104 isObject.d.ts
+05/11/2026  18:37               161 isObject.js
+05/11/2026  18:37             1.071 LICENSE
+05/11/2026  18:37             2.249 package.json
+05/11/2026  18:37             2.603 README.md
+05/11/2026  18:37               123 RequireObjectCoercible.d.ts
+05/11/2026  18:37               313 RequireObjectCoercible.js
+05/11/2026  18:37    <DIR>          test
+05/11/2026  18:37               352 ToObject.d.ts
+05/11/2026  18:37               250 ToObject.js
+05/11/2026  18:37               112 tsconfig.json
+              14 arquivo(s)         10.315 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\es-object-atoms\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               555 FUNDING.yml
+               1 arquivo(s)            555 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\es-object-atoms\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             1.097 index.js
+               1 arquivo(s)          1.097 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\escape-html
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             1.362 index.js
+05/11/2026  18:37             1.157 LICENSE
+05/11/2026  18:37               434 package.json
+05/11/2026  18:37               707 Readme.md
+               4 arquivo(s)          3.660 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\etag
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             1.732 HISTORY.md
+05/11/2026  18:37             2.479 index.js
+05/11/2026  18:37             1.094 LICENSE
+05/11/2026  18:37             1.306 package.json
+05/11/2026  18:37             4.198 README.md
+               5 arquivo(s)         10.809 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\express
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               224 index.js
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.249 LICENSE
+05/11/2026  18:37             2.731 package.json
+05/11/2026  18:37            10.371 Readme.md
+               4 arquivo(s)         14.575 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\express\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37            13.953 application.js
+05/11/2026  18:37             1.636 express.js
+05/11/2026  18:37            12.283 request.js
+05/11/2026  18:37            25.089 response.js
+05/11/2026  18:37             5.293 utils.js
+05/11/2026  18:37             3.809 view.js
+               6 arquivo(s)         62.063 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\fill-range
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             6.406 index.js
+05/11/2026  18:37             1.091 LICENSE
+05/11/2026  18:37             1.760 package.json
+05/11/2026  18:37             7.486 README.md
+               4 arquivo(s)         16.743 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\finalhandler
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             5.469 HISTORY.md
+05/11/2026  18:37             5.818 index.js
+05/11/2026  18:37             1.119 LICENSE
+05/11/2026  18:37             1.287 package.json
+05/11/2026  18:37             4.418 README.md
+               5 arquivo(s)         18.111 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\forwarded
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               400 HISTORY.md
+05/11/2026  18:37             1.578 index.js
+05/11/2026  18:37             1.094 LICENSE
+05/11/2026  18:37             1.150 package.json
+05/11/2026  18:37             1.654 README.md
+               5 arquivo(s)          5.876 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\fresh
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             1.844 HISTORY.md
+05/11/2026  18:37             2.705 index.js
+05/11/2026  18:37             1.174 LICENSE
+05/11/2026  18:37             1.218 package.json
+05/11/2026  18:37             3.348 README.md
+               5 arquivo(s)         10.289 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\function-bind
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               253 .eslintrc
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37               216 .nycrc
+05/11/2026  18:37            13.812 CHANGELOG.md
+05/11/2026  18:37             2.043 implementation.js
+05/11/2026  18:37               126 index.js
+05/11/2026  18:37             1.052 LICENSE
+05/11/2026  18:37             2.262 package.json
+05/11/2026  18:37             1.755 README.md
+05/11/2026  18:37    <DIR>          test
+               8 arquivo(s)         21.519 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\function-bind\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               584 FUNDING.yml
+05/11/2026  18:37               157 SECURITY.md
+               2 arquivo(s)            741 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\function-bind\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               176 .eslintrc
+05/11/2026  18:37             8.991 index.js
+               2 arquivo(s)          9.167 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\generate-function
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37                38 .travis.yml
+05/11/2026  18:37               609 example.js
+05/11/2026  18:37             3.210 index.js
+05/11/2026  18:37             1.078 LICENSE
+05/11/2026  18:37               702 package.json
+05/11/2026  18:37             2.219 README.md
+05/11/2026  18:37             1.180 test.js
+               7 arquivo(s)          9.036 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\get-intrinsic
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               647 .eslintrc
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37               139 .nycrc
+05/11/2026  18:37            15.537 CHANGELOG.md
+05/11/2026  18:37            14.439 index.js
+05/11/2026  18:37             1.071 LICENSE
+05/11/2026  18:37             2.576 package.json
+05/11/2026  18:37             2.791 README.md
+05/11/2026  18:37    <DIR>          test
+               7 arquivo(s)         37.200 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\get-intrinsic\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               584 FUNDING.yml
+               1 arquivo(s)            584 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\get-intrinsic\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             8.758 GetIntrinsic.js
+               1 arquivo(s)          8.758 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\get-proto
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               104 .eslintrc
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37               139 .nycrc
+05/11/2026  18:37             1.054 CHANGELOG.md
+05/11/2026  18:37               126 index.d.ts
+05/11/2026  18:37               821 index.js
+05/11/2026  18:37             1.071 LICENSE
+05/11/2026  18:37               125 Object.getPrototypeOf.d.ts
+05/11/2026  18:37               156 Object.getPrototypeOf.js
+05/11/2026  18:37             2.176 package.json
+05/11/2026  18:37             1.794 README.md
+05/11/2026  18:37                67 Reflect.getPrototypeOf.d.ts
+05/11/2026  18:37               150 Reflect.getPrototypeOf.js
+05/11/2026  18:37    <DIR>          test
+05/11/2026  18:37               118 tsconfig.json
+              13 arquivo(s)          7.901 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\get-proto\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               580 FUNDING.yml
+               1 arquivo(s)            580 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\get-proto\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             2.359 index.js
+               1 arquivo(s)          2.359 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\glob-parent
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             4.510 CHANGELOG.md
+05/11/2026  18:37             1.120 index.js
+05/11/2026  18:37               753 LICENSE
+05/11/2026  18:37             1.105 package.json
+05/11/2026  18:37             4.646 README.md
+               5 arquivo(s)         12.134 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\gopd
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               224 .eslintrc
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37             3.077 CHANGELOG.md
+05/11/2026  18:37                42 gOPD.d.ts
+05/11/2026  18:37                97 gOPD.js
+05/11/2026  18:37               173 index.d.ts
+05/11/2026  18:37               206 index.js
+05/11/2026  18:37             1.071 LICENSE
+05/11/2026  18:37             2.070 package.json
+05/11/2026  18:37             1.562 README.md
+05/11/2026  18:37    <DIR>          test
+05/11/2026  18:37               116 tsconfig.json
+              10 arquivo(s)          8.638 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\gopd\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               575 FUNDING.yml
+               1 arquivo(s)            575 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\gopd\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               656 index.js
+               1 arquivo(s)            656 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\has-flag
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               320 index.js
+05/11/2026  18:37             1.109 license
+05/11/2026  18:37               710 package.json
+05/11/2026  18:37               986 readme.md
+               4 arquivo(s)          3.125 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\has-symbols
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               164 .eslintrc
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37               139 .nycrc
+05/11/2026  18:37             9.431 CHANGELOG.md
+05/11/2026  18:37                73 index.d.ts
+05/11/2026  18:37               447 index.js
+05/11/2026  18:37             1.071 LICENSE
+05/11/2026  18:37             2.974 package.json
+05/11/2026  18:37             2.044 README.md
+05/11/2026  18:37                69 shams.d.ts
+05/11/2026  18:37             1.922 shams.js
+05/11/2026  18:37    <DIR>          test
+05/11/2026  18:37               143 tsconfig.json
+              11 arquivo(s)         18.477 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\has-symbols\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               582 FUNDING.yml
+               1 arquivo(s)            582 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\has-symbols\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               654 index.js
+05/11/2026  18:37    <DIR>          shams
+05/11/2026  18:37             2.139 tests.js
+               2 arquivo(s)          2.793 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\has-symbols\test\shams
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               797 core-js.js
+05/11/2026  18:37               760 get-own-property-symbols.js
+               2 arquivo(s)          1.557 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\hasown
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37               216 .nycrc
+05/11/2026  18:37             4.078 CHANGELOG.md
+05/11/2026  18:37               136 eslint.config.mjs
+05/11/2026  18:37               117 index.d.ts
+05/11/2026  18:37               206 index.js
+05/11/2026  18:37             1.083 LICENSE
+05/11/2026  18:37             2.258 package.json
+05/11/2026  18:37             1.613 README.md
+05/11/2026  18:37                73 tsconfig.json
+               9 arquivo(s)          9.780 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\hasown\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               552 FUNDING.yml
+               1 arquivo(s)            552 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\http-errors
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             4.094 HISTORY.md
+05/11/2026  18:37             6.430 index.js
+05/11/2026  18:37             1.168 LICENSE
+05/11/2026  18:37             1.410 package.json
+05/11/2026  18:37             5.962 README.md
+               5 arquivo(s)         19.064 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\iconv-lite
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37    <DIR>          encodings
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.064 LICENSE
+05/11/2026  18:37             2.260 package.json
+05/11/2026  18:37             6.587 README.md
+05/11/2026  18:37    <DIR>          types
+               3 arquivo(s)          9.911 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\iconv-lite\encodings
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37            20.464 dbcs-codec.js
+05/11/2026  18:37             8.881 dbcs-data.js
+05/11/2026  18:37               670 index.js
+05/11/2026  18:37             6.560 internal.js
+05/11/2026  18:37             2.114 sbcs-codec.js
+05/11/2026  18:37             4.577 sbcs-data.js
+05/11/2026  18:37            32.034 sbcs-data-generated.js
+05/11/2026  18:37    <DIR>          tables
+05/11/2026  18:37             5.097 utf16.js
+05/11/2026  18:37             9.531 utf32.js
+05/11/2026  18:37             8.580 utf7.js
+              10 arquivo(s)         98.508 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\iconv-lite\encodings\tables
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37            17.717 big5-added.json
+05/11/2026  18:37            47.320 cp936.json
+05/11/2026  18:37            38.122 cp949.json
+05/11/2026  18:37            42.356 cp950.json
+05/11/2026  18:37            41.064 eucjp.json
+05/11/2026  18:37             2.216 gb18030-ranges.json
+05/11/2026  18:37             1.247 gbk-added.json
+05/11/2026  18:37            23.782 shiftjis.json
+               8 arquivo(s)        213.824 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\iconv-lite\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             1.035 bom-handling.js
+05/11/2026  18:37    <DIR>          helpers
+05/11/2026  18:37             4.763 index.d.ts
+05/11/2026  18:37             6.711 index.js
+05/11/2026  18:37             2.979 streams.js
+               4 arquivo(s)         15.488 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\iconv-lite\lib\helpers
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               310 merge-exports.js
+               1 arquivo(s)            310 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\iconv-lite\types
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             6.144 encodings.d.ts
+               1 arquivo(s)          6.144 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\ignore-by-default
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               614 index.js
+05/11/2026  18:37               748 LICENSE
+05/11/2026  18:37               775 package.json
+05/11/2026  18:37               680 README.md
+               4 arquivo(s)          2.817 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\inherits
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               250 inherits.js
+05/11/2026  18:37               753 inherits_browser.js
+05/11/2026  18:37               749 LICENSE
+05/11/2026  18:37               581 package.json
+05/11/2026  18:37             1.625 README.md
+               5 arquivo(s)          3.958 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\ipaddr.js
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             9.738 ipaddr.min.js
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.087 LICENSE
+05/11/2026  18:37               719 package.json
+05/11/2026  18:37             8.309 README.md
+               4 arquivo(s)         19.853 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\ipaddr.js\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37            19.333 ipaddr.js
+05/11/2026  18:37             2.959 ipaddr.js.d.ts
+               2 arquivo(s)         22.292 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\is-binary-path
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               290 index.d.ts
+05/11/2026  18:37               239 index.js
+05/11/2026  18:37             1.159 license
+05/11/2026  18:37               657 package.json
+05/11/2026  18:37               733 readme.md
+               5 arquivo(s)          3.078 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\is-extglob
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               441 index.js
+05/11/2026  18:37             1.087 LICENSE
+05/11/2026  18:37             1.220 package.json
+05/11/2026  18:37             3.469 README.md
+               4 arquivo(s)          6.217 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\is-glob
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             3.628 index.js
+05/11/2026  18:37             1.088 LICENSE
+05/11/2026  18:37             1.748 package.json
+05/11/2026  18:37             7.145 README.md
+               4 arquivo(s)         13.609 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\is-number
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               411 index.js
+05/11/2026  18:37             1.091 LICENSE
+05/11/2026  18:37             1.599 package.json
+05/11/2026  18:37             6.514 README.md
+               4 arquivo(s)          9.615 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\is-promise
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               108 index.d.ts
+05/11/2026  18:37               201 index.js
+05/11/2026  18:37               151 index.mjs
+05/11/2026  18:37             1.058 LICENSE
+05/11/2026  18:37               576 package.json
+05/11/2026  18:37               864 readme.md
+               6 arquivo(s)          2.958 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\is-property
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               116 .npmignore
+05/11/2026  18:37            11.014 is-property.js
+05/11/2026  18:37             1.082 LICENSE
+05/11/2026  18:37               743 package.json
+05/11/2026  18:37               625 README.md
+               5 arquivo(s)         13.580 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\jsonwebtoken
+
+05/11/2026  18:38    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:38               767 decode.js
+05/11/2026  18:38               276 index.js
+05/11/2026  18:38    <DIR>          lib
+05/11/2026  18:38             1.121 LICENSE
+05/11/2026  18:38             1.428 package.json
+05/11/2026  18:38            17.709 README.md
+05/11/2026  18:38             9.350 sign.js
+05/11/2026  18:38             8.612 verify.js
+               7 arquivo(s)         39.263 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\jsonwebtoken\lib
+
+05/11/2026  18:38    <DIR>          .
+05/11/2026  18:38    <DIR>          ..
+05/11/2026  18:38                99 asymmetricKeyDetailsSupported.js
+05/11/2026  18:38               428 JsonWebTokenError.js
+05/11/2026  18:38               362 NotBeforeError.js
+05/11/2026  18:38               107 psSupported.js
+05/11/2026  18:38                99 rsaPssKeyDetailsSupported.js
+05/11/2026  18:38               412 timespan.js
+05/11/2026  18:38               395 TokenExpiredError.js
+05/11/2026  18:38             2.238 validateAsymmetricKey.js
+               8 arquivo(s)          4.140 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\jwa
+
+05/11/2026  18:38    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:38             6.800 index.js
+05/11/2026  18:38             1.068 LICENSE
+05/11/2026  18:38                66 opslevel.yml
+05/11/2026  18:38               749 package.json
+05/11/2026  18:38             5.369 README.md
+               5 arquivo(s)         14.052 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\jws
+
+05/11/2026  18:38    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:38             2.076 CHANGELOG.md
+05/11/2026  18:38               609 index.js
+05/11/2026  18:38    <DIR>          lib
+05/11/2026  18:38             1.068 LICENSE
+05/11/2026  18:38                66 opslevel.yml
+05/11/2026  18:38               671 package.json
+05/11/2026  18:38             6.933 readme.md
+               6 arquivo(s)         11.423 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\jws\lib
+
+05/11/2026  18:38    <DIR>          .
+05/11/2026  18:38    <DIR>          ..
+05/11/2026  18:38             1.242 data-stream.js
+05/11/2026  18:38             2.416 sign-stream.js
+05/11/2026  18:38               262 tostring.js
+05/11/2026  18:38             3.479 verify-stream.js
+               4 arquivo(s)          7.399 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\lodash.includes
+
+05/11/2026  18:38    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:38            18.716 index.js
+05/11/2026  18:38             1.951 LICENSE
+05/11/2026  18:38               749 package.json
+05/11/2026  18:38               467 README.md
+               4 arquivo(s)         21.883 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\lodash.isboolean
+
+05/11/2026  18:38    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:38             1.819 index.js
+05/11/2026  18:38             1.233 LICENSE
+05/11/2026  18:38               746 package.json
+05/11/2026  18:38               474 README.md
+               4 arquivo(s)          4.272 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\lodash.isinteger
+
+05/11/2026  18:38    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:38             6.036 index.js
+05/11/2026  18:38             1.951 LICENSE
+05/11/2026  18:38               752 package.json
+05/11/2026  18:38               474 README.md
+               4 arquivo(s)          9.213 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\lodash.isnumber
+
+05/11/2026  18:38    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:38             2.025 index.js
+05/11/2026  18:38             1.233 LICENSE
+05/11/2026  18:38               743 package.json
+05/11/2026  18:38               467 README.md
+               4 arquivo(s)          4.468 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\lodash.isplainobject
+
+05/11/2026  18:38    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:38             3.673 index.js
+05/11/2026  18:38             1.951 LICENSE
+05/11/2026  18:38               764 package.json
+05/11/2026  18:38               502 README.md
+               4 arquivo(s)          6.890 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\lodash.isstring
+
+05/11/2026  18:38    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:38             2.302 index.js
+05/11/2026  18:38             1.233 LICENSE
+05/11/2026  18:38               743 package.json
+05/11/2026  18:38               467 README.md
+               4 arquivo(s)          4.745 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\lodash.once
+
+05/11/2026  18:38    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:38             7.094 index.js
+05/11/2026  18:38             1.951 LICENSE
+05/11/2026  18:38               737 package.json
+05/11/2026  18:38               439 README.md
+               4 arquivo(s)         10.221 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\long
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37                56 index.d.ts
+05/11/2026  18:37            44.190 index.js
+05/11/2026  18:37            11.358 LICENSE
+05/11/2026  18:37             1.493 package.json
+05/11/2026  18:37            11.124 README.md
+05/11/2026  18:37            10.071 types.d.ts
+05/11/2026  18:37    <DIR>          umd
+               6 arquivo(s)         78.292 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\long\umd
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37                76 index.d.ts
+05/11/2026  18:37            50.994 index.js
+05/11/2026  18:37                25 package.json
+05/11/2026  18:37            10.071 types.d.ts
+               4 arquivo(s)         61.166 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\lru.min
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37    <DIR>          browser
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.094 LICENSE
+05/11/2026  18:37             2.471 package.json
+05/11/2026  18:37             9.384 README.md
+               3 arquivo(s)         12.949 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\lru.min\browser
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             2.255 lru.min.js
+               1 arquivo(s)          2.255 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\lru.min\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             2.125 index.d.ts
+05/11/2026  18:37             9.003 index.js
+05/11/2026  18:37             7.216 index.mjs
+               3 arquivo(s)         18.344 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\math-intrinsics
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               229 .eslintrc
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37                18 abs.d.ts
+05/11/2026  18:37                73 abs.js
+05/11/2026  18:37             1.466 CHANGELOG.md
+05/11/2026  18:37    <DIR>          constants
+05/11/2026  18:37                20 floor.d.ts
+05/11/2026  18:37                77 floor.js
+05/11/2026  18:37                80 isFinite.d.ts
+05/11/2026  18:37               262 isFinite.js
+05/11/2026  18:37                87 isInteger.d.ts
+05/11/2026  18:37               410 isInteger.js
+05/11/2026  18:37                22 isNaN.d.ts
+05/11/2026  18:37               121 isNaN.js
+05/11/2026  18:37                79 isNegativeZero.d.ts
+05/11/2026  18:37               143 isNegativeZero.js
+05/11/2026  18:37             1.073 LICENSE
+05/11/2026  18:37                18 max.d.ts
+05/11/2026  18:37                73 max.js
+05/11/2026  18:37                18 min.d.ts
+05/11/2026  18:37                73 min.js
+05/11/2026  18:37                76 mod.d.ts
+05/11/2026  18:37               218 mod.js
+05/11/2026  18:37             2.670 package.json
+05/11/2026  18:37                18 pow.d.ts
+05/11/2026  18:37                73 pow.js
+05/11/2026  18:37             1.884 README.md
+05/11/2026  18:37                20 round.d.ts
+05/11/2026  18:37                77 round.js
+05/11/2026  18:37                57 sign.d.ts
+05/11/2026  18:37               214 sign.js
+05/11/2026  18:37    <DIR>          test
+05/11/2026  18:37                36 tsconfig.json
+              30 arquivo(s)          9.685 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\math-intrinsics\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               561 FUNDING.yml
+               1 arquivo(s)            561 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\math-intrinsics\constants
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37                71 maxArrayLength.d.ts
+05/11/2026  18:37               110 maxArrayLength.js
+05/11/2026  18:37                77 maxSafeInteger.d.ts
+05/11/2026  18:37               231 maxSafeInteger.js
+05/11/2026  18:37                71 maxValue.d.ts
+05/11/2026  18:37               197 maxValue.js
+               6 arquivo(s)            757 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\math-intrinsics\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             6.320 index.js
+               1 arquivo(s)          6.320 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\media-typer
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             1.155 HISTORY.md
+05/11/2026  18:37             2.936 index.js
+05/11/2026  18:37             1.094 LICENSE
+05/11/2026  18:37             1.036 package.json
+05/11/2026  18:37             3.078 README.md
+               5 arquivo(s)          9.299 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\merge-descriptors
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               635 index.d.ts
+05/11/2026  18:37               616 index.js
+05/11/2026  18:37             1.231 license
+05/11/2026  18:37               961 package.json
+05/11/2026  18:37               930 readme.md
+               5 arquivo(s)          4.373 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\method-override
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             3.467 HISTORY.md
+05/11/2026  18:37             3.102 index.js
+05/11/2026  18:37             1.167 LICENSE
+05/11/2026  18:37    <DIR>          node_modules
+05/11/2026  18:37             1.258 package.json
+05/11/2026  18:37             6.479 README.md
+               5 arquivo(s)         15.473 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\method-override\node_modules
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37    <DIR>          debug
+05/11/2026  18:37    <DIR>          ms
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\method-override\node_modules\debug
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37                46 .coveralls.yml
+05/11/2026  18:37               219 .eslintrc
+05/11/2026  18:37                72 .npmignore
+05/11/2026  18:37               185 .travis.yml
+05/11/2026  18:37            12.950 CHANGELOG.md
+05/11/2026  18:37             1.736 karma.conf.js
+05/11/2026  18:37             1.107 LICENSE
+05/11/2026  18:37             1.234 Makefile
+05/11/2026  18:37                40 node.js
+05/11/2026  18:37             1.021 package.json
+05/11/2026  18:37            19.827 README.md
+05/11/2026  18:37    <DIR>          src
+              11 arquivo(s)         38.437 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\method-override\node_modules\debug\src
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             5.707 browser.js
+05/11/2026  18:37             4.889 debug.js
+05/11/2026  18:37               263 index.js
+05/11/2026  18:37             4.339 node.js
+               4 arquivo(s)         15.198 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\method-override\node_modules\ms
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             2.764 index.js
+05/11/2026  18:37             1.077 license.md
+05/11/2026  18:37               704 package.json
+05/11/2026  18:37             1.721 readme.md
+               4 arquivo(s)          6.266 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\methods
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               427 HISTORY.md
+05/11/2026  18:37             1.040 index.js
+05/11/2026  18:37             1.180 LICENSE
+05/11/2026  18:37               947 package.json
+05/11/2026  18:37             1.694 README.md
+               5 arquivo(s)          5.288 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mime-db
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37           203.840 db.json
+05/11/2026  18:37            13.886 HISTORY.md
+05/11/2026  18:37               189 index.js
+05/11/2026  18:37             1.172 LICENSE
+05/11/2026  18:37             1.530 package.json
+05/11/2026  18:37             4.949 README.md
+               6 arquivo(s)        225.566 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mime-types
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             9.923 HISTORY.md
+05/11/2026  18:37             4.546 index.js
+05/11/2026  18:37             1.167 LICENSE
+05/11/2026  18:37             1.497 mimeScore.js
+05/11/2026  18:37             1.266 package.json
+05/11/2026  18:37             4.472 README.md
+               6 arquivo(s)         22.871 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\minimatch
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37    <DIR>          dist
+05/11/2026  18:37             1.550 LICENSE.md
+05/11/2026  18:37             1.812 package.json
+05/11/2026  18:37            19.865 README.md
+               3 arquivo(s)         23.227 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\minimatch\dist
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37    <DIR>          commonjs
+05/11/2026  18:37    <DIR>          esm
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\minimatch\dist\commonjs
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               119 assert-valid-pattern.d.ts
+05/11/2026  18:37               199 assert-valid-pattern.d.ts.map
+05/11/2026  18:37               492 assert-valid-pattern.js
+05/11/2026  18:37               832 assert-valid-pattern.js.map
+05/11/2026  18:37               845 ast.d.ts
+05/11/2026  18:37               919 ast.d.ts.map
+05/11/2026  18:37            30.650 ast.js
+05/11/2026  18:37            56.074 ast.js.map
+05/11/2026  18:37               251 brace-expressions.d.ts
+05/11/2026  18:37               319 brace-expressions.d.ts.map
+05/11/2026  18:37             5.743 brace-expressions.js
+05/11/2026  18:37            10.568 brace-expressions.js.map
+05/11/2026  18:37               781 escape.d.ts
+05/11/2026  18:37               278 escape.d.ts.map
+05/11/2026  18:37             1.253 escape.js
+05/11/2026  18:37             1.890 escape.js.map
+05/11/2026  18:37             7.360 index.d.ts
+05/11/2026  18:37             3.722 index.d.ts.map
+05/11/2026  18:37            45.140 index.js
+05/11/2026  18:37            85.329 index.js.map
+05/11/2026  18:37                25 package.json
+05/11/2026  18:37               956 unescape.d.ts
+05/11/2026  18:37               290 unescape.d.ts.map
+05/11/2026  18:37             1.390 unescape.js
+05/11/2026  18:37             2.080 unescape.js.map
+              25 arquivo(s)        257.505 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\minimatch\dist\esm
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               119 assert-valid-pattern.d.ts
+05/11/2026  18:37               199 assert-valid-pattern.d.ts.map
+05/11/2026  18:37               336 assert-valid-pattern.js
+05/11/2026  18:37               815 assert-valid-pattern.js.map
+05/11/2026  18:37               845 ast.d.ts
+05/11/2026  18:37               919 ast.d.ts.map
+05/11/2026  18:37            30.416 ast.js
+05/11/2026  18:37            56.089 ast.js.map
+05/11/2026  18:37               251 brace-expressions.d.ts
+05/11/2026  18:37               319 brace-expressions.d.ts.map
+05/11/2026  18:37             5.611 brace-expressions.js
+05/11/2026  18:37            10.552 brace-expressions.js.map
+05/11/2026  18:37               781 escape.d.ts
+05/11/2026  18:37               278 escape.d.ts.map
+05/11/2026  18:37             1.133 escape.js
+05/11/2026  18:37             1.874 escape.js.map
+05/11/2026  18:37             7.360 index.d.ts
+05/11/2026  18:37             3.722 index.d.ts.map
+05/11/2026  18:37            43.810 index.js
+05/11/2026  18:37            85.364 index.js.map
+05/11/2026  18:37                23 package.json
+05/11/2026  18:37               956 unescape.d.ts
+05/11/2026  18:37               290 unescape.d.ts.map
+05/11/2026  18:37             1.264 unescape.js
+05/11/2026  18:37             2.064 unescape.js.map
+              25 arquivo(s)        255.390 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\ms
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             3.024 index.js
+05/11/2026  18:37             1.079 license.md
+05/11/2026  18:37               732 package.json
+05/11/2026  18:37             1.886 readme.md
+               4 arquivo(s)          6.721 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37                42 index.d.ts
+05/11/2026  18:37             2.113 index.js
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.112 License
+05/11/2026  18:37             3.295 package.json
+05/11/2026  18:37             3.626 promise.d.ts
+05/11/2026  18:37             6.574 promise.js
+05/11/2026  18:37             5.787 README.md
+05/11/2026  18:37    <DIR>          typings
+               7 arquivo(s)         22.549 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             2.332 auth_41.js
+05/11/2026  18:37    <DIR>          auth_plugins
+05/11/2026  18:37    <DIR>          base
+05/11/2026  18:37    <DIR>          commands
+05/11/2026  18:37             6.513 compressed_protocol.js
+05/11/2026  18:37               294 connection.js
+05/11/2026  18:37            12.234 connection_config.js
+05/11/2026  18:37    <DIR>          constants
+05/11/2026  18:37               260 create_connection.js
+05/11/2026  18:37               216 create_pool.js
+05/11/2026  18:37               176 create_pool_cluster.js
+05/11/2026  18:37             2.080 helpers.js
+05/11/2026  18:37             6.535 packet_parser.js
+05/11/2026  18:37    <DIR>          packets
+05/11/2026  18:37    <DIR>          parsers
+05/11/2026  18:37               246 pool.js
+05/11/2026  18:37             8.731 pool_cluster.js
+05/11/2026  18:37               988 pool_config.js
+05/11/2026  18:37             1.831 pool_connection.js
+05/11/2026  18:37    <DIR>          promise
+05/11/2026  18:37               961 results_stream.js
+05/11/2026  18:37             6.906 ring_queue.js
+05/11/2026  18:37               851 server.js
+05/11/2026  18:37             1.712 tls_session_cache.js
+05/11/2026  18:37             2.213 tracing.js
+              18 arquivo(s)         55.079 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2\lib\auth_plugins
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             3.484 caching_sha2_password.js
+05/11/2026  18:37               401 caching_sha2_password.md
+05/11/2026  18:37               267 index.js
+05/11/2026  18:37               457 mysql_clear_password.js
+05/11/2026  18:37               904 mysql_native_password.js
+05/11/2026  18:37             2.045 sha256_password.js
+               6 arquivo(s)          7.558 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2\lib\base
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37            36.331 connection.js
+05/11/2026  18:37            10.289 pool.js
+               2 arquivo(s)         46.620 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2\lib\commands
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             5.183 auth_switch.js
+05/11/2026  18:37             2.989 binlog_dump.js
+05/11/2026  18:37             2.704 change_user.js
+05/11/2026  18:37            15.116 client_handshake.js
+05/11/2026  18:37               361 close_statement.js
+05/11/2026  18:37             1.258 command.js
+05/11/2026  18:37             4.597 execute.js
+05/11/2026  18:37               774 index.js
+05/11/2026  18:37               816 ping.js
+05/11/2026  18:37             4.172 prepare.js
+05/11/2026  18:37            11.278 query.js
+05/11/2026  18:37               575 quit.js
+05/11/2026  18:37               592 register_slave.js
+05/11/2026  18:37               675 reset_connection.js
+05/11/2026  18:37             6.621 server_handshake.js
+              15 arquivo(s)         57.711 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2\lib\constants
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             4.190 charset_encodings.js
+05/11/2026  18:37            10.509 charsets.js
+05/11/2026  18:37             2.486 client.js
+05/11/2026  18:37               797 commands.js
+05/11/2026  18:37               135 cursor.js
+05/11/2026  18:37               703 encoding_charset.js
+05/11/2026  18:37           184.575 errors.js
+05/11/2026  18:37               923 field_flags.js
+05/11/2026  18:37               966 mariadb_client.js
+05/11/2026  18:37             1.536 server_status.js
+05/11/2026  18:37               281 session_track.js
+05/11/2026  18:37               223 ssl_profiles.js
+05/11/2026  18:37             2.809 types.js
+              13 arquivo(s)        210.133 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2\lib\packets
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               918 auth_next_factor.js
+05/11/2026  18:37             1.056 auth_switch_request.js
+05/11/2026  18:37               793 auth_switch_request_more_data.js
+05/11/2026  18:37               707 auth_switch_response.js
+05/11/2026  18:37             3.280 binary_row.js
+05/11/2026  18:37               984 binlog_dump.js
+05/11/2026  18:37             3.517 binlog_query_statusvars.js
+05/11/2026  18:37             3.308 change_user.js
+05/11/2026  18:37               454 close_statement.js
+05/11/2026  18:37            11.627 column_definition.js
+05/11/2026  18:37             3.570 encode_parameter.js
+05/11/2026  18:37             6.780 execute.js
+05/11/2026  18:37             4.520 handshake.js
+05/11/2026  18:37             6.496 handshake_response.js
+05/11/2026  18:37             4.724 index.js
+05/11/2026  18:37            33.135 packet.js
+05/11/2026  18:37             1.239 prepare_statement.js
+05/11/2026  18:37               375 prepared_statement_header.js
+05/11/2026  18:37             4.813 query.js
+05/11/2026  18:37             1.629 register_slave.js
+05/11/2026  18:37               368 reset_connection.js
+05/11/2026  18:37             4.871 resultset_header.js
+05/11/2026  18:37               952 ssl_request.js
+05/11/2026  18:37             1.201 text_row.js
+05/11/2026  18:37             9.962 typed_parameter.js
+              25 arquivo(s)        111.279 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2\lib\parsers
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             9.034 binary_parser.js
+05/11/2026  18:37             4.335 local_date.js
+05/11/2026  18:37             7.238 parser_cache.js
+05/11/2026  18:37             8.929 static_binary_parser.js
+05/11/2026  18:37             5.573 static_text_parser.js
+05/11/2026  18:37             6.232 string.js
+05/11/2026  18:37             7.460 text_parser.js
+               7 arquivo(s)         48.801 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2\lib\promise
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               761 capture_local_err.js
+05/11/2026  18:37             6.399 connection.js
+05/11/2026  18:37               753 inherit_events.js
+05/11/2026  18:37               339 make_done_cb.js
+05/11/2026  18:37             3.317 pool.js
+05/11/2026  18:37             1.798 pool_cluster.js
+05/11/2026  18:37               366 pool_connection.js
+05/11/2026  18:37               874 prepared_statement_info.js
+               8 arquivo(s)         14.607 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2\typings
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37    <DIR>          mysql
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2\typings\mysql
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             2.650 index.d.ts
+05/11/2026  18:37                79 info.txt
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37               754 LICENSE.txt
+               3 arquivo(s)          3.483 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2\typings\mysql\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               926 Auth.d.ts
+05/11/2026  18:37            12.811 Connection.d.ts
+05/11/2026  18:37    <DIR>          constants
+05/11/2026  18:37    <DIR>          parsers
+05/11/2026  18:37             2.905 Pool.d.ts
+05/11/2026  18:37             2.723 PoolCluster.d.ts
+05/11/2026  18:37               519 PoolConnection.d.ts
+05/11/2026  18:37    <DIR>          protocol
+05/11/2026  18:37               282 Server.d.ts
+05/11/2026  18:37             1.792 Tracing.d.ts
+05/11/2026  18:37             2.502 TypedParameter.d.ts
+               8 arquivo(s)         24.460 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2\typings\mysql\lib\constants
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             8.699 Charsets.d.ts
+05/11/2026  18:37               230 CharsetToEncoding.d.ts
+05/11/2026  18:37               186 index.d.ts
+05/11/2026  18:37             1.191 Types.d.ts
+               4 arquivo(s)         10.306 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2\typings\mysql\lib\parsers
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               358 index.d.ts
+05/11/2026  18:37               147 ParserCache.d.ts
+05/11/2026  18:37             1.359 typeCast.d.ts
+               3 arquivo(s)          1.864 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2\typings\mysql\lib\protocol
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37    <DIR>          packets
+05/11/2026  18:37    <DIR>          sequences
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2\typings\mysql\lib\protocol\packets
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               341 Field.d.ts
+05/11/2026  18:37               936 FieldPacket.d.ts
+05/11/2026  18:37               733 index.d.ts
+05/11/2026  18:37               571 OkPacket.d.ts
+05/11/2026  18:37    <DIR>          params
+05/11/2026  18:37               456 ProcedurePacket.d.ts
+05/11/2026  18:37               428 ResultSetHeader.d.ts
+05/11/2026  18:37               162 RowDataPacket.d.ts
+               7 arquivo(s)          3.627 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2\typings\mysql\lib\protocol\packets\params
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               117 ErrorPacketParams.d.ts
+05/11/2026  18:37               181 OkPacketParams.d.ts
+               2 arquivo(s)            298 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2\typings\mysql\lib\protocol\sequences
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             1.115 ExecutableBase.d.ts
+05/11/2026  18:37             1.580 Prepare.d.ts
+05/11/2026  18:37    <DIR>          promise
+05/11/2026  18:37             6.745 Query.d.ts
+05/11/2026  18:37             1.100 QueryableBase.d.ts
+05/11/2026  18:37               109 Sequence.d.ts
+               5 arquivo(s)         10.649 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\mysql2\typings\mysql\lib\protocol\sequences\promise
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               525 ExecutableBase.d.ts
+05/11/2026  18:37               515 QueryableBase.d.ts
+               2 arquivo(s)          1.040 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\named-placeholders
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             4.366 index.js
+05/11/2026  18:37             1.081 LICENSE
+05/11/2026  18:37               809 package.json
+05/11/2026  18:37               900 README.md
+               4 arquivo(s)          7.156 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\negotiator
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             2.516 index.js
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.177 LICENSE
+05/11/2026  18:37             1.232 package.json
+05/11/2026  18:37             5.330 README.md
+               4 arquivo(s)         10.255 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\negotiator\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               969 accept.js
+05/11/2026  18:37             2.713 charset.js
+05/11/2026  18:37             3.794 encoding.js
+05/11/2026  18:37             3.240 language.js
+05/11/2026  18:37             3.436 mediaType.js
+               5 arquivo(s)         14.152 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\node-addon-api
+
+06/11/2026  01:13    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+06/11/2026  01:13               833 common.gypi
+06/11/2026  01:13               560 except.gypi
+06/11/2026  01:13               435 index.js
+06/11/2026  01:13             1.150 LICENSE.md
+06/11/2026  01:13           125.611 napi.h
+06/11/2026  01:13             6.323 napi-inl.deprecated.h
+06/11/2026  01:13           243.635 napi-inl.h
+06/11/2026  01:13             1.097 node_addon_api.gyp
+06/11/2026  01:13               132 node_api.gyp
+06/11/2026  01:13               649 noexcept.gypi
+06/11/2026  01:13                 0 nothing.c
+06/11/2026  01:13            11.032 package.json
+06/11/2026  01:13               467 package-support.json
+06/11/2026  01:13             4.994 README.md
+06/11/2026  01:13    <DIR>          tools
+              14 arquivo(s)        396.918 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\node-addon-api\tools
+
+06/11/2026  01:13    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+06/11/2026  01:13             3.176 check-napi.js
+06/11/2026  01:13             2.002 clang-format.js
+06/11/2026  01:13            15.001 conversion.js
+06/11/2026  01:13             3.217 README.md
+               4 arquivo(s)         23.396 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\node-gyp-build
+
+06/11/2026  01:13    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+06/11/2026  01:13             2.094 bin.js
+06/11/2026  01:13               398 build-test.js
+06/11/2026  01:13               390 index.js
+06/11/2026  01:13             1.079 LICENSE
+06/11/2026  01:13             6.078 node-gyp-build.js
+06/11/2026  01:13               143 optional.js
+06/11/2026  01:13             1.004 package.json
+06/11/2026  01:13             2.485 README.md
+06/11/2026  01:13               193 SECURITY.md
+               9 arquivo(s)         13.864 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\nodemon
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37                26 .prettierrc.json
+05/11/2026  18:37    <DIR>          bin
+05/11/2026  18:37    <DIR>          doc
+05/11/2026  18:37             3.396 index.d.ts
+05/11/2026  18:37               142 jsconfig.json
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.122 LICENSE
+05/11/2026  18:37             2.122 package.json
+05/11/2026  18:37            40.947 README.md
+               6 arquivo(s)         47.755 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\nodemon\bin
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               436 nodemon.js
+05/11/2026  18:37            80.384 windows-kill.exe
+               2 arquivo(s)         80.820 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\nodemon\doc
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37    <DIR>          cli
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\nodemon\doc\cli
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               236 authors.txt
+05/11/2026  18:37             1.158 config.txt
+05/11/2026  18:37             1.268 help.txt
+05/11/2026  18:37               799 logo.txt
+05/11/2026  18:37             1.869 options.txt
+05/11/2026  18:37               325 topics.txt
+05/11/2026  18:37                88 usage.txt
+05/11/2026  18:37             1.223 whoami.txt
+               8 arquivo(s)          6.966 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\nodemon\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37    <DIR>          cli
+05/11/2026  18:37    <DIR>          config
+05/11/2026  18:37    <DIR>          help
+05/11/2026  18:37                38 index.js
+05/11/2026  18:37    <DIR>          monitor
+05/11/2026  18:37             8.978 nodemon.js
+05/11/2026  18:37    <DIR>          rules
+05/11/2026  18:37             1.930 spawn.js
+05/11/2026  18:37    <DIR>          utils
+05/11/2026  18:37             2.465 version.js
+               4 arquivo(s)         13.411 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\nodemon\lib\cli
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             1.089 index.js
+05/11/2026  18:37             6.105 parse.js
+               2 arquivo(s)          7.194 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\nodemon\lib\config
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             1.249 command.js
+05/11/2026  18:37               979 defaults.js
+05/11/2026  18:37             7.124 exec.js
+05/11/2026  18:37             2.511 index.js
+05/11/2026  18:37             6.660 load.js
+               5 arquivo(s)         18.523 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\nodemon\lib\help
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               733 index.js
+               1 arquivo(s)            733 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\nodemon\lib\monitor
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37                82 index.js
+05/11/2026  18:37             7.018 match.js
+05/11/2026  18:37            16.951 run.js
+05/11/2026  18:37               488 signals.js
+05/11/2026  18:37             6.567 watch.js
+               5 arquivo(s)         31.106 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\nodemon\lib\rules
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             2.667 add.js
+05/11/2026  18:37             1.260 index.js
+05/11/2026  18:37               804 parse.js
+               3 arquivo(s)          4.731 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\nodemon\lib\utils
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               946 bus.js
+05/11/2026  18:37               829 clone.js
+05/11/2026  18:37               690 colour.js
+05/11/2026  18:37             2.624 index.js
+05/11/2026  18:37             1.738 log.js
+05/11/2026  18:37             1.186 merge.js
+               6 arquivo(s)          8.013 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\normalize-path
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             1.024 index.js
+05/11/2026  18:37             1.088 LICENSE
+05/11/2026  18:37             1.666 package.json
+05/11/2026  18:37             5.441 README.md
+               4 arquivo(s)          9.219 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\object-assign
+
+05/11/2026  18:38    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:38             2.108 index.js
+05/11/2026  18:38             1.119 license
+05/11/2026  18:38               764 package.json
+05/11/2026  18:38             1.502 readme.md
+               4 arquivo(s)          5.493 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\object-inspect
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             1.298 .eslintrc
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37               236 .nycrc
+05/11/2026  18:37            36.562 CHANGELOG.md
+05/11/2026  18:37    <DIR>          example
+05/11/2026  18:37            19.059 index.js
+05/11/2026  18:37             1.071 LICENSE
+05/11/2026  18:37             2.841 package.json
+05/11/2026  18:37               365 package-support.json
+05/11/2026  18:37             2.988 readme.markdown
+05/11/2026  18:37    <DIR>          test
+05/11/2026  18:37               534 test-core-js.js
+05/11/2026  18:37                42 util.inspect.js
+              10 arquivo(s)         64.996 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\object-inspect\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               585 FUNDING.yml
+               1 arquivo(s)            585 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\object-inspect\example
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               391 all.js
+05/11/2026  18:37               116 circular.js
+05/11/2026  18:37               126 fn.js
+05/11/2026  18:37               251 inspect.js
+               4 arquivo(s)            884 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\object-inspect\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             2.082 bigint.js
+05/11/2026  18:37    <DIR>          browser
+05/11/2026  18:37               451 circular.js
+05/11/2026  18:37               400 deep.js
+05/11/2026  18:37             1.575 element.js
+05/11/2026  18:37             1.536 err.js
+05/11/2026  18:37               683 fakes.js
+05/11/2026  18:37             2.227 fn.js
+05/11/2026  18:37               372 global.js
+05/11/2026  18:37               514 has.js
+05/11/2026  18:37               255 holes.js
+05/11/2026  18:37             6.633 indent-option.js
+05/11/2026  18:37             4.946 inspect.js
+05/11/2026  18:37               268 lowbyte.js
+05/11/2026  18:37             2.312 number.js
+05/11/2026  18:37             1.530 quoteStyle.js
+05/11/2026  18:37             1.546 toStringTag.js
+05/11/2026  18:37               302 undef.js
+05/11/2026  18:37             8.407 values.js
+              18 arquivo(s)         36.039 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\object-inspect\test\browser
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               416 dom.js
+               1 arquivo(s)            416 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\on-finished
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             4.692 index.js
+05/11/2026  18:37             1.167 LICENSE
+05/11/2026  18:37             1.153 package.json
+05/11/2026  18:37             5.160 README.md
+               4 arquivo(s)         12.172 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\once
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               765 LICENSE
+05/11/2026  18:37               935 once.js
+05/11/2026  18:37               574 package.json
+05/11/2026  18:37             1.772 README.md
+               4 arquivo(s)          4.046 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\parseurl
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             1.043 HISTORY.md
+05/11/2026  18:37             2.809 index.js
+05/11/2026  18:37             1.173 LICENSE
+05/11/2026  18:37             1.180 package.json
+05/11/2026  18:37             4.094 README.md
+               5 arquivo(s)         10.299 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\path-to-regexp
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37    <DIR>          dist
+05/11/2026  18:37             1.103 LICENSE
+05/11/2026  18:37             1.399 package.json
+05/11/2026  18:37             7.832 Readme.md
+               3 arquivo(s)         10.334 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\path-to-regexp\dist
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             4.078 index.d.ts
+05/11/2026  18:37            14.528 index.js
+05/11/2026  18:37            30.740 index.js.map
+               3 arquivo(s)         49.346 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\picomatch
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37                60 index.js
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.091 LICENSE
+05/11/2026  18:37             1.912 package.json
+05/11/2026  18:37            27.999 README.md
+               4 arquivo(s)         31.062 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\picomatch\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             4.563 constants.js
+05/11/2026  18:37            33.950 parse.js
+05/11/2026  18:37             9.956 picomatch.js
+05/11/2026  18:37             9.189 scan.js
+05/11/2026  18:37             1.885 utils.js
+               5 arquivo(s)         59.543 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\proxy-addr
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             2.480 HISTORY.md
+05/11/2026  18:37             7.340 index.js
+05/11/2026  18:37             1.094 LICENSE
+05/11/2026  18:37             1.281 package.json
+05/11/2026  18:37             4.131 README.md
+               5 arquivo(s)         16.326 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\pstree.remy
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               100 .travis.yml
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.126 LICENSE
+05/11/2026  18:37               629 package.json
+05/11/2026  18:37               421 README.md
+05/11/2026  18:37    <DIR>          tests
+               4 arquivo(s)          2.276 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\pstree.remy\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               800 index.js
+05/11/2026  18:37               857 tree.js
+05/11/2026  18:37             1.171 utils.js
+               3 arquivo(s)          2.828 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\pstree.remy\tests
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37    <DIR>          fixtures
+05/11/2026  18:37             1.387 index.test.js
+               1 arquivo(s)          1.387 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\pstree.remy\tests\fixtures
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               282 index.js
+05/11/2026  18:37             2.382 out1
+05/11/2026  18:37             5.822 out2
+               3 arquivo(s)          8.486 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\qs
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               605 .editorconfig
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37               216 .nycrc
+05/11/2026  18:37            49.086 CHANGELOG.md
+05/11/2026  18:37    <DIR>          dist
+05/11/2026  18:37             1.260 eslint.config.mjs
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.600 LICENSE.md
+05/11/2026  18:37             3.166 package.json
+05/11/2026  18:37            32.861 README.md
+05/11/2026  18:37    <DIR>          test
+               7 arquivo(s)         88.794 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\qs\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               548 FUNDING.yml
+05/11/2026  18:37               413 SECURITY.md
+05/11/2026  18:37             7.528 THREAT_MODEL.md
+               3 arquivo(s)          8.489 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\qs\dist
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37            57.565 qs.js
+               1 arquivo(s)         57.565 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\qs\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               633 formats.js
+05/11/2026  18:37               211 index.js
+05/11/2026  18:37            19.932 parse.js
+05/11/2026  18:37            12.417 stringify.js
+05/11/2026  18:37            18.537 utils.js
+               5 arquivo(s)         51.730 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\qs\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             7.698 empty-keys-cases.js
+05/11/2026  18:37           116.560 parse.js
+05/11/2026  18:37            92.100 stringify.js
+05/11/2026  18:37            36.072 utils.js
+               4 arquivo(s)        252.430 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\range-parser
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               917 HISTORY.md
+05/11/2026  18:37             3.205 index.js
+05/11/2026  18:37             1.178 LICENSE
+05/11/2026  18:37             1.297 package.json
+05/11/2026  18:37             2.370 README.md
+               5 arquivo(s)          8.967 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\raw-body
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             2.315 index.d.ts
+05/11/2026  18:37             7.171 index.js
+05/11/2026  18:37             1.181 LICENSE
+05/11/2026  18:37             1.275 package.json
+05/11/2026  18:37             6.553 README.md
+               5 arquivo(s)         18.495 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\readdirp
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             1.018 index.d.ts
+05/11/2026  18:37             8.876 index.js
+05/11/2026  18:37             1.114 LICENSE
+05/11/2026  18:37             2.522 package.json
+05/11/2026  18:37             6.942 README.md
+               5 arquivo(s)         20.472 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\router
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             6.571 HISTORY.md
+05/11/2026  18:37            15.866 index.js
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.128 LICENSE
+05/11/2026  18:37             1.142 package.json
+05/11/2026  18:37            12.656 README.md
+               5 arquivo(s)         37.363 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\router\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             4.936 layer.js
+05/11/2026  18:37             4.552 route.js
+               2 arquivo(s)          9.488 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\safe-buffer
+
+05/11/2026  18:38    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:38             8.738 index.d.ts
+05/11/2026  18:38             1.670 index.js
+05/11/2026  18:38             1.081 LICENSE
+05/11/2026  18:38             1.057 package.json
+05/11/2026  18:38            19.555 README.md
+               5 arquivo(s)         32.101 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\safer-buffer
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             1.483 dangerous.js
+05/11/2026  18:37             1.094 LICENSE
+05/11/2026  18:37               822 package.json
+05/11/2026  18:37            12.794 Porting-Buffer.md
+05/11/2026  18:37             8.261 Readme.md
+05/11/2026  18:37             2.110 safer.js
+05/11/2026  18:37            15.735 tests.js
+               7 arquivo(s)         42.299 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\semver
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37    <DIR>          bin
+05/11/2026  18:37    <DIR>          classes
+05/11/2026  18:37    <DIR>          functions
+05/11/2026  18:37             2.691 index.js
+05/11/2026  18:37    <DIR>          internal
+05/11/2026  18:37               765 LICENSE
+05/11/2026  18:37             1.661 package.json
+05/11/2026  18:37                83 preload.js
+05/11/2026  18:37               702 range.bnf
+05/11/2026  18:37    <DIR>          ranges
+05/11/2026  18:37            25.669 README.md
+               6 arquivo(s)         31.571 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\semver\bin
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             4.957 semver.js
+               1 arquivo(s)          4.957 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\semver\classes
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             3.631 comparator.js
+05/11/2026  18:37               143 index.js
+05/11/2026  18:37            15.678 range.js
+05/11/2026  18:37             9.891 semver.js
+               4 arquivo(s)         29.343 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\semver\functions
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               205 clean.js
+05/11/2026  18:37               961 cmp.js
+05/11/2026  18:37             2.004 coerce.js
+05/11/2026  18:37               170 compare.js
+05/11/2026  18:37               281 compare-build.js
+05/11/2026  18:37               132 compare-loose.js
+05/11/2026  18:37             1.423 diff.js
+05/11/2026  18:37               126 eq.js
+05/11/2026  18:37               124 gt.js
+05/11/2026  18:37               127 gte.js
+05/11/2026  18:37               478 inc.js
+05/11/2026  18:37               124 lt.js
+05/11/2026  18:37               127 lte.js
+05/11/2026  18:37               136 major.js
+05/11/2026  18:37               136 minor.js
+05/11/2026  18:37               128 neq.js
+05/11/2026  18:37               331 parse.js
+05/11/2026  18:37               136 patch.js
+05/11/2026  18:37               234 prerelease.js
+05/11/2026  18:37               132 rcompare.js
+05/11/2026  18:37               163 rsort.js
+05/11/2026  18:37               247 satisfies.js
+05/11/2026  18:37               161 sort.js
+05/11/2026  18:37             1.021 truncate.js
+05/11/2026  18:37               176 valid.js
+              25 arquivo(s)          9.283 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\semver\internal
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             1.269 constants.js
+05/11/2026  18:37               240 debug.js
+05/11/2026  18:37               525 identifiers.js
+05/11/2026  18:37               802 lrucache.js
+05/11/2026  18:37               338 parse-options.js
+05/11/2026  18:37             8.139 re.js
+05/11/2026  18:37            17.165 trim-comparator-whitespace.js
+               7 arquivo(s)         28.478 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\semver\ranges
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               231 gtr.js
+05/11/2026  18:37               224 intersects.js
+05/11/2026  18:37               227 ltr.js
+05/11/2026  18:37               593 max-satisfying.js
+05/11/2026  18:37               591 min-satisfying.js
+05/11/2026  18:37             1.514 min-version.js
+05/11/2026  18:37             2.204 outside.js
+05/11/2026  18:37             1.355 simplify.js
+05/11/2026  18:37             7.478 subset.js
+05/11/2026  18:37               282 to-comparators.js
+05/11/2026  18:37               326 valid.js
+              11 arquivo(s)         15.025 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\send
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37            20.341 index.js
+05/11/2026  18:37             1.128 LICENSE
+05/11/2026  18:37             1.669 package.json
+05/11/2026  18:37             9.062 README.md
+               4 arquivo(s)         32.200 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\serve-static
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             4.489 index.js
+05/11/2026  18:37             1.189 LICENSE
+05/11/2026  18:37             1.193 package.json
+05/11/2026  18:37             7.464 README.md
+               4 arquivo(s)         14.335 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\setprototypeof
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37                93 index.d.ts
+05/11/2026  18:37               407 index.js
+05/11/2026  18:37               727 LICENSE
+05/11/2026  18:37             1.264 package.json
+05/11/2026  18:37               844 README.md
+05/11/2026  18:37    <DIR>          test
+               5 arquivo(s)          3.335 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\setprototypeof\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               690 index.js
+               1 arquivo(s)            690 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\side-channel
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               145 .editorconfig
+05/11/2026  18:37               203 .eslintrc
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37               216 .nycrc
+05/11/2026  18:37            11.419 CHANGELOG.md
+05/11/2026  18:37               486 index.d.ts
+05/11/2026  18:37             1.222 index.js
+05/11/2026  18:37             1.071 LICENSE
+05/11/2026  18:37             2.362 package.json
+05/11/2026  18:37             2.110 README.md
+05/11/2026  18:37    <DIR>          test
+05/11/2026  18:37               116 tsconfig.json
+              10 arquivo(s)         19.350 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\side-channel\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               583 FUNDING.yml
+               1 arquivo(s)            583 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\side-channel\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             2.931 index.js
+               1 arquivo(s)          2.931 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\side-channel-list
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               145 .editorconfig
+05/11/2026  18:37               185 .eslintrc
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37               216 .nycrc
+05/11/2026  18:37             1.634 CHANGELOG.md
+05/11/2026  18:37               335 index.d.ts
+05/11/2026  18:37             3.289 index.js
+05/11/2026  18:37             1.071 LICENSE
+05/11/2026  18:37               721 list.d.ts
+05/11/2026  18:37             2.258 package.json
+05/11/2026  18:37             2.285 README.md
+05/11/2026  18:37    <DIR>          test
+05/11/2026  18:37               116 tsconfig.json
+              11 arquivo(s)         12.255 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\side-channel-list\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               588 FUNDING.yml
+               1 arquivo(s)            588 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\side-channel-list\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             4.130 index.js
+               1 arquivo(s)          4.130 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\side-channel-map
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               145 .editorconfig
+05/11/2026  18:37               185 .eslintrc
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37               216 .nycrc
+05/11/2026  18:37             1.191 CHANGELOG.md
+05/11/2026  18:37               367 index.d.ts
+05/11/2026  18:37             1.981 index.js
+05/11/2026  18:37             1.071 LICENSE
+05/11/2026  18:37             2.336 package.json
+05/11/2026  18:37             2.278 README.md
+05/11/2026  18:37    <DIR>          test
+05/11/2026  18:37               116 tsconfig.json
+              10 arquivo(s)          9.886 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\side-channel-map\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               587 FUNDING.yml
+               1 arquivo(s)            587 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\side-channel-map\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             2.875 index.js
+               1 arquivo(s)          2.875 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\side-channel-weakmap
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               145 .editorconfig
+05/11/2026  18:37               203 .eslintrc
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37               216 .nycrc
+05/11/2026  18:37             1.477 CHANGELOG.md
+05/11/2026  18:37               382 index.d.ts
+05/11/2026  18:37             2.708 index.js
+05/11/2026  18:37             1.071 LICENSE
+05/11/2026  18:37             2.447 package.json
+05/11/2026  18:37             2.342 README.md
+05/11/2026  18:37    <DIR>          test
+05/11/2026  18:37               116 tsconfig.json
+              10 arquivo(s)         11.107 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\side-channel-weakmap\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               591 FUNDING.yml
+               1 arquivo(s)            591 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\side-channel-weakmap\test
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             2.969 index.js
+               1 arquivo(s)          2.969 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\simple-update-notifier
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37    <DIR>          build
+05/11/2026  18:37             1.069 LICENSE
+05/11/2026  18:37             2.510 package.json
+05/11/2026  18:37             2.486 README.md
+05/11/2026  18:37    <DIR>          src
+               3 arquivo(s)          6.065 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\simple-update-notifier\build
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               342 index.d.ts
+05/11/2026  18:37             9.909 index.js
+               2 arquivo(s)         10.251 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\simple-update-notifier\src
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               371 borderedText.ts
+05/11/2026  18:37               527 cache.spec.ts
+05/11/2026  18:37             1.054 cache.ts
+05/11/2026  18:37               810 getDistVersion.spec.ts
+05/11/2026  18:37               811 getDistVersion.ts
+05/11/2026  18:37             2.375 hasNewVersion.spec.ts
+05/11/2026  18:37             1.147 hasNewVersion.ts
+05/11/2026  18:37               744 index.spec.ts
+05/11/2026  18:37               984 index.ts
+05/11/2026  18:37               444 isNpmOrYarn.ts
+05/11/2026  18:37               202 types.ts
+              11 arquivo(s)          9.469 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\sql-escaper
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.123 LICENSE
+05/11/2026  18:37             2.193 package.json
+05/11/2026  18:37            16.986 README.md
+               3 arquivo(s)         20.302 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\sql-escaper\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             1.241 index.d.ts
+05/11/2026  18:37            20.528 index.js
+05/11/2026  18:37            16.266 index.mjs
+05/11/2026  18:37               581 types.d.ts
+05/11/2026  18:37                77 types.js
+               5 arquivo(s)         38.693 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\statuses
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             1.789 codes.json
+05/11/2026  18:37             1.628 HISTORY.md
+05/11/2026  18:37             2.610 index.js
+05/11/2026  18:37             1.172 LICENSE
+05/11/2026  18:37             1.440 package.json
+05/11/2026  18:37             3.866 README.md
+               6 arquivo(s)         12.505 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\supports-color
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37                67 browser.js
+05/11/2026  18:37             2.771 index.js
+05/11/2026  18:37             1.109 license
+05/11/2026  18:37               818 package.json
+05/11/2026  18:37             1.865 readme.md
+               5 arquivo(s)          6.630 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\to-regex-range
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             6.481 index.js
+05/11/2026  18:37             1.091 LICENSE
+05/11/2026  18:37             1.782 package.json
+05/11/2026  18:37            13.585 README.md
+               4 arquivo(s)         22.939 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\toidentifier
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               128 HISTORY.md
+05/11/2026  18:37               504 index.js
+05/11/2026  18:37             1.108 LICENSE
+05/11/2026  18:37             1.142 package.json
+05/11/2026  18:37             1.803 README.md
+               5 arquivo(s)          4.685 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\touch
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37    <DIR>          bin
+05/11/2026  18:37             4.972 index.js
+05/11/2026  18:37               748 LICENSE
+05/11/2026  18:37               607 package.json
+05/11/2026  18:37             1.224 README.md
+               4 arquivo(s)          7.551 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\touch\bin
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             2.612 nodetouch.js
+               1 arquivo(s)          2.612 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\type-is
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             6.864 HISTORY.md
+05/11/2026  18:37             5.396 index.js
+05/11/2026  18:37             1.172 LICENSE
+05/11/2026  18:37             1.333 package.json
+05/11/2026  18:37             6.504 README.md
+               5 arquivo(s)         21.269 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\undefsafe
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37    <DIR>          .github
+05/11/2026  18:37               364 .jscsrc
+05/11/2026  18:37               240 .jshintrc
+05/11/2026  18:37               283 .travis.yml
+05/11/2026  18:37               245 example.js
+05/11/2026  18:37    <DIR>          lib
+05/11/2026  18:37             1.119 LICENSE
+05/11/2026  18:37               784 package.json
+05/11/2026  18:37             1.414 README.md
+               7 arquivo(s)          4.449 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\undefsafe\.github
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37    <DIR>          workflows
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\undefsafe\.github\workflows
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37               556 release.yml
+               1 arquivo(s)            556 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\undefsafe\lib
+
+05/11/2026  18:37    <DIR>          .
+05/11/2026  18:37    <DIR>          ..
+05/11/2026  18:37             2.595 undefsafe.js
+               1 arquivo(s)          2.595 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\undici-types
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37             1.062 agent.d.ts
+05/11/2026  18:37             1.609 api.d.ts
+05/11/2026  18:37             1.019 balanced-pool.d.ts
+05/11/2026  18:37             1.251 cache.d.ts
+05/11/2026  18:37             4.362 cache-interceptor.d.ts
+05/11/2026  18:37             7.105 client.d.ts
+05/11/2026  18:37               456 client-stats.d.ts
+05/11/2026  18:37             1.129 connector.d.ts
+05/11/2026  18:37               561 content-type.d.ts
+05/11/2026  18:37               696 cookies.d.ts
+05/11/2026  18:37             1.776 diagnostics-channel.d.ts
+05/11/2026  18:37            14.841 dispatcher.d.ts
+05/11/2026  18:37               169 dispatcher1-wrapper.d.ts
+05/11/2026  18:37               732 env-http-proxy-agent.d.ts
+05/11/2026  18:37             5.095 errors.d.ts
+05/11/2026  18:37             1.794 eventsource.d.ts
+05/11/2026  18:37             7.352 fetch.d.ts
+05/11/2026  18:37             5.009 formdata.d.ts
+05/11/2026  18:37               275 global-dispatcher.d.ts
+05/11/2026  18:37               176 global-origin.d.ts
+05/11/2026  18:37             4.298 h2c-client.d.ts
+05/11/2026  18:37               508 handlers.d.ts
+05/11/2026  18:37             3.500 header.d.ts
+05/11/2026  18:37             4.707 index.d.ts
+05/11/2026  18:37             3.705 interceptors.d.ts
+05/11/2026  18:37             1.090 LICENSE
+05/11/2026  18:37             3.448 mock-agent.d.ts
+05/11/2026  18:37             5.558 mock-call-history.d.ts
+05/11/2026  18:37             1.065 mock-client.d.ts
+05/11/2026  18:37               336 mock-errors.d.ts
+05/11/2026  18:37             4.061 mock-interceptor.d.ts
+05/11/2026  18:37             1.037 mock-pool.d.ts
+05/11/2026  18:37             1.192 package.json
+05/11/2026  18:37               599 patch.d.ts
+05/11/2026  18:37             1.384 pool.d.ts
+05/11/2026  18:37               663 pool-stats.d.ts
+05/11/2026  18:37             1.200 proxy-agent.d.ts
+05/11/2026  18:37             1.910 readable.d.ts
+05/11/2026  18:37               455 README.md
+05/11/2026  18:37               233 retry-agent.d.ts
+05/11/2026  18:37             3.262 retry-handler.d.ts
+05/11/2026  18:37             1.474 round-robin-pool.d.ts
+05/11/2026  18:37             3.306 snapshot-agent.d.ts
+05/11/2026  18:37               870 socks5-proxy-agent.d.ts
+05/11/2026  18:37               623 util.d.ts
+05/11/2026  18:37               245 utility.d.ts
+05/11/2026  18:37             8.870 webidl.d.ts
+05/11/2026  18:37             4.711 websocket.d.ts
+              48 arquivo(s)        120.779 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\unpipe
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37                59 HISTORY.md
+05/11/2026  18:37             1.118 index.js
+05/11/2026  18:37             1.114 LICENSE
+05/11/2026  18:37               770 package.json
+05/11/2026  18:37             1.250 README.md
+               5 arquivo(s)          4.311 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\vary
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               792 HISTORY.md
+05/11/2026  18:37             2.930 index.js
+05/11/2026  18:37             1.094 LICENSE
+05/11/2026  18:37             1.215 package.json
+05/11/2026  18:37             2.716 README.md
+               5 arquivo(s)          8.747 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\node_modules\wrappy
+
+05/11/2026  18:37    <DIR>          .
+06/11/2026  01:13    <DIR>          ..
+05/11/2026  18:37               765 LICENSE
+05/11/2026  18:37               606 package.json
+05/11/2026  18:37               685 README.md
+05/11/2026  18:37               905 wrappy.js
+               4 arquivo(s)          2.961 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\routes
+
+07/11/2026  23:56    <DIR>          .
+07/11/2026  23:57    <DIR>          ..
+06/11/2026  01:15             1.951 auth.js
+06/11/2026  00:26             4.112 clientes.js
+06/11/2026  00:26             4.704 fornecedores.js
+07/11/2026  04:01             2.762 materiais.js
+07/11/2026  17:37            12.639 orcamentos.js
+07/11/2026  23:12             7.879 projetos.js
+06/11/2026  01:15             4.637 usuarios.js
+               7 arquivo(s)         38.684 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\utils
+
+05/11/2026  18:43    <DIR>          .
+07/11/2026  23:57    <DIR>          ..
+05/11/2026  18:43             1.216 validadores.js
+               1 arquivo(s)          1.216 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\backend\views
+
+05/11/2026  18:23    <DIR>          .
+07/11/2026  23:57    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\frontend
+
+07/11/2026  18:06    <DIR>          .
+07/11/2026  23:58    <DIR>          ..
+07/11/2026  23:19             7.131 clientes.html
+05/11/2026  18:59    <DIR>          components
+06/11/2026  05:17    <DIR>          css
+07/11/2026  18:30             6.685 dashboard.html
+07/11/2026  23:19             8.210 fornecedores.html
+06/11/2026  17:59             1.890 index.html
+07/11/2026  18:06    <DIR>          js
+07/11/2026  23:19             3.278 materiais.html
+07/11/2026  23:19             5.151 orcamentos.html
+07/11/2026  18:38             4.979 projetos.html
+05/11/2026  19:40    <DIR>          src
+07/11/2026  23:19             4.214 usuarios.html
+               8 arquivo(s)         41.538 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\frontend\components
+
+05/11/2026  18:59    <DIR>          .
+07/11/2026  18:06    <DIR>          ..
+05/11/2026  18:59             1.952 Layout.js
+               1 arquivo(s)          1.952 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\frontend\css
+
+06/11/2026  05:17    <DIR>          .
+07/11/2026  18:06    <DIR>          ..
+06/11/2026  17:53            10.266 estilo.css
+06/11/2026  05:17    <DIR>          lixo
+               1 arquivo(s)         10.266 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\frontend\css\lixo
+
+06/11/2026  05:17    <DIR>          .
+06/11/2026  05:17    <DIR>          ..
+06/11/2026  02:40             6.966 clientes.css
+06/11/2026  02:24             5.520 dashboard.css
+06/11/2026  03:04            11.731 estilo.css
+06/11/2026  00:38             8.836 estilo.old
+06/11/2026  02:09             7.638 estilo1.old
+06/11/2026  04:24            12.882 estilo-unificado.css
+06/11/2026  02:42             7.204 fornecedores.css
+06/11/2026  02:37             8.221 usuarios.css
+               8 arquivo(s)         68.998 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\frontend\js
+
+07/11/2026  18:06    <DIR>          .
+07/11/2026  18:06    <DIR>          ..
+07/11/2026  18:27            14.851 api.js
+05/11/2026  21:31               992 auth.js
+05/11/2026  23:50            10.597 clientes.js
+07/11/2026  18:28             4.681 dashboard.js
+05/11/2026  23:50            11.661 fornecedores.js
+07/11/2026  04:26             4.440 materiais.js
+07/11/2026  22:46            15.961 orcamentos.js
+07/11/2026  23:17            19.278 projetos.js
+06/11/2026  00:54             5.844 usuarios.js
+05/11/2026  23:49             5.988 validacoes.js
+              10 arquivo(s)         94.293 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\frontend\src
+
+05/11/2026  19:40    <DIR>          .
+07/11/2026  18:06    <DIR>          ..
+05/11/2026  18:58             2.100 App.js
+05/11/2026  19:39             1.843 App.jsx
+05/11/2026  19:40    <DIR>          components
+05/11/2026  19:02    <DIR>          pages
+05/11/2026  18:46    <DIR>          services
+               2 arquivo(s)          3.943 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\frontend\src\components
+
+05/11/2026  19:40    <DIR>          .
+05/11/2026  19:40    <DIR>          ..
+05/11/2026  19:40               247 PrivateRoute.jsx
+               1 arquivo(s)            247 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\frontend\src\pages
+
+05/11/2026  19:02    <DIR>          .
+05/11/2026  19:40    <DIR>          ..
+05/11/2026  19:40    <DIR>          clientes
+05/11/2026  19:44    <DIR>          fornecedores
+05/11/2026  19:00             2.450 Home.js
+05/11/2026  18:52             3.017 Login.js
+               2 arquivo(s)          5.467 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\frontend\src\pages\clientes
+
+05/11/2026  19:40    <DIR>          .
+05/11/2026  19:02    <DIR>          ..
+05/11/2026  19:02            13.152 Cadastrar.js
+05/11/2026  19:43            11.137 Editar.jsx
+05/11/2026  19:37             3.794 Listar.js
+               3 arquivo(s)         28.083 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\frontend\src\pages\fornecedores
+
+05/11/2026  19:44    <DIR>          .
+05/11/2026  19:02    <DIR>          ..
+05/11/2026  19:35            15.910 Cadastrar.js
+05/11/2026  19:45            13.164 Editar.jsx
+05/11/2026  19:37             3.889 Listar.js
+               3 arquivo(s)         32.963 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\frontend\src\services
+
+05/11/2026  18:46    <DIR>          .
+05/11/2026  19:40    <DIR>          ..
+06/11/2026  05:38               798 api.js
+               1 arquivo(s)            798 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\public
+
+05/11/2026  18:31    <DIR>          .
+07/11/2026  23:58    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\COMP\07-Fatec-2026-02\02-WEBII\01-pi\sis\temp
+
+07/11/2026  23:57    <DIR>          .
+07/11/2026  23:58    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+     Total de Arquivos na Lista:
+            1525 arquivo(s)     10.278.911 bytes
+             962 pasta(s)   435.696.869.376 bytes dispon�veis
